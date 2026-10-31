@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Question } from '../../types/question';
 import { MathView } from '../common/MathView';
+import { QuestionFigureViewer } from '../common/QuestionFigureViewer';
 import { OptionSelector } from './OptionSelector';
 import { NatInput } from './NatInput';
 import { DetailedSolutionViewer } from './DetailedSolutionViewer';
@@ -284,26 +285,12 @@ export const QuestionSolver: React.FC<QuestionSolverProps> = ({
           <MathView content={question.statement} />
         </div>
 
-        {/* Inline Circuit / Figure if present */}
-        {question.figure && (
-          <div className="my-5 p-3 rounded-xl bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 text-center">
-            {question.figure.type === 'svg' ? (
-              <div
-                className="overflow-x-auto flex justify-center py-2"
-                dangerouslySetInnerHTML={{ __html: question.figure.content }}
-              />
-            ) : (
-              <img
-                src={question.figure.content}
-                alt={question.figure.alt || 'Circuit diagram'}
-                className="max-w-full h-auto mx-auto rounded-lg"
-              />
-            )}
-            {question.figure.caption && (
-              <p className="text-xs text-slate-500 mt-2 font-medium italic">{question.figure.caption}</p>
-            )}
-          </div>
-        )}
+        {/* Inline Circuit / Figure with Interactive Zoom & Aspect Ratio Control */}
+        <QuestionFigureViewer
+          figure={question.figure}
+          figures={question.figures}
+          title={`Diagram for ${question.id}`}
+        />
 
         {/* Options / NAT input */}
         <div className="mt-6">
@@ -478,6 +465,8 @@ export const QuestionSolver: React.FC<QuestionSolverProps> = ({
                 ? question.officialAnswer.join(', ')
                 : String(question.officialAnswer)
             }
+            figure={question.figure}
+            figures={question.figures}
             onNavigateRelated={onNavigateQuestion}
           />
         </div>

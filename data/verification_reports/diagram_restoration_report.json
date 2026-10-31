@@ -1,0 +1,758 @@
+{
+  "totalAuthenticQuestions": 325,
+  "questionsNeedingDiagrams": 75,
+  "diagramsRestored": 75,
+  "restoredPercentage": 100.0,
+  "results": [
+    {
+      "id": "GATE-2026-EC-Q17",
+      "status": "RESTORED",
+      "year": 2026,
+      "subject": "Analog Circuits",
+      "url": "/figures/2026/GATE-2026-EC-Q17.png",
+      "width": 1310,
+      "height": 667,
+      "size": 89678
+    },
+    {
+      "id": "GATE-2026-EC-Q18",
+      "status": "RESTORED",
+      "year": 2026,
+      "subject": "Engineering Mathematics",
+      "url": "/figures/2026/GATE-2026-EC-Q18.png",
+      "width": 1310,
+      "height": 692,
+      "size": 94167
+    },
+    {
+      "id": "GATE-2026-EC-Q19",
+      "status": "RESTORED",
+      "year": 2026,
+      "subject": "Control Systems",
+      "url": "/figures/2026/GATE-2026-EC-Q19.png",
+      "width": 1310,
+      "height": 535,
+      "size": 66909
+    },
+    {
+      "id": "GATE-2026-EC-Q20",
+      "status": "RESTORED",
+      "year": 2026,
+      "subject": "Electronic Devices",
+      "url": "/figures/2026/GATE-2026-EC-Q20.png",
+      "width": 1310,
+      "height": 783,
+      "size": 93721
+    },
+    {
+      "id": "GATE-2026-EC-Q30",
+      "status": "RESTORED",
+      "year": 2026,
+      "subject": "Network Theory",
+      "url": "/figures/2026/GATE-2026-EC-Q30.png",
+      "width": 1308,
+      "height": 527,
+      "size": 72330
+    },
+    {
+      "id": "GATE-2026-EC-Q31",
+      "status": "RESTORED",
+      "year": 2026,
+      "subject": "Network Theory",
+      "url": "/figures/2026/GATE-2026-EC-Q31.png",
+      "width": 1308,
+      "height": 544,
+      "size": 77783
+    },
+    {
+      "id": "GATE-2026-EC-Q39",
+      "status": "RESTORED",
+      "year": 2026,
+      "subject": "Communications",
+      "url": "/figures/2026/GATE-2026-EC-Q39.png",
+      "width": 1310,
+      "height": 538,
+      "size": 79385
+    },
+    {
+      "id": "GATE-2026-EC-Q40",
+      "status": "RESTORED",
+      "year": 2026,
+      "subject": "Control Systems",
+      "url": "/figures/2026/GATE-2026-EC-Q40.png",
+      "width": 1310,
+      "height": 764,
+      "size": 125476
+    },
+    {
+      "id": "GATE-2026-EC-Q48",
+      "status": "RESTORED",
+      "year": 2026,
+      "subject": "Digital Circuits",
+      "url": "/figures/2026/GATE-2026-EC-Q48.png",
+      "width": 1310,
+      "height": 727,
+      "size": 77151
+    },
+    {
+      "id": "GATE-2026-EC-Q49",
+      "status": "RESTORED",
+      "year": 2026,
+      "subject": "Digital Circuits",
+      "url": "/figures/2026/GATE-2026-EC-Q49.png",
+      "width": 1310,
+      "height": 698,
+      "size": 70760
+    },
+    {
+      "id": "GATE-2026-EC-Q50",
+      "status": "RESTORED",
+      "year": 2026,
+      "subject": "Analog Circuits",
+      "url": "/figures/2026/GATE-2026-EC-Q50.png",
+      "width": 1310,
+      "height": 876,
+      "size": 117871
+    },
+    {
+      "id": "GATE-2026-EC-Q51",
+      "status": "RESTORED",
+      "year": 2026,
+      "subject": "Digital Circuits",
+      "url": "/figures/2026/GATE-2026-EC-Q51.png",
+      "width": 1310,
+      "height": 404,
+      "size": 49879
+    },
+    {
+      "id": "GATE-2026-EC-Q53",
+      "status": "RESTORED",
+      "year": 2026,
+      "subject": "Analog Circuits",
+      "url": "/figures/2026/GATE-2026-EC-Q53.png",
+      "width": 1310,
+      "height": 523,
+      "size": 74530
+    },
+    {
+      "id": "GATE-2026-EC-Q59",
+      "status": "RESTORED",
+      "year": 2026,
+      "subject": "Electronic Devices",
+      "url": "/figures/2026/GATE-2026-EC-Q59.png",
+      "width": 1308,
+      "height": 232,
+      "size": 34518
+    },
+    {
+      "id": "GATE-2026-EC-Q60",
+      "status": "RESTORED",
+      "year": 2026,
+      "subject": "Electronic Devices",
+      "url": "/figures/2026/GATE-2026-EC-Q60.png",
+      "width": 1308,
+      "height": 1181,
+      "size": 152414
+    },
+    {
+      "id": "GATE-2026-EC-Q62",
+      "status": "RESTORED",
+      "year": 2026,
+      "subject": "Analog Circuits",
+      "url": "/figures/2026/GATE-2026-EC-Q62.png",
+      "width": 1308,
+      "height": 569,
+      "size": 65867
+    },
+    {
+      "id": "GATE-2026-EC-Q65",
+      "status": "RESTORED",
+      "year": 2026,
+      "subject": "Network Theory",
+      "url": "/figures/2026/GATE-2026-EC-Q65.png",
+      "width": 1308,
+      "height": 575,
+      "size": 77689
+    },
+    {
+      "id": "GATE-2025-EC-GA07",
+      "status": "RESTORED",
+      "year": 2025,
+      "subject": "General Aptitude",
+      "url": "/figures/2025/GATE-2025-EC-GA07.png",
+      "width": 1310,
+      "height": 203,
+      "size": 14805
+    },
+    {
+      "id": "GATE-2025-EC-Q16",
+      "status": "RESTORED",
+      "year": 2025,
+      "subject": "Control Systems",
+      "url": "/figures/2025/GATE-2025-EC-Q16.png",
+      "width": 1310,
+      "height": 1080,
+      "size": 151474
+    },
+    {
+      "id": "GATE-2025-EC-Q20",
+      "status": "RESTORED",
+      "year": 2025,
+      "subject": "Network Theory",
+      "url": "/figures/2025/GATE-2025-EC-Q20.png",
+      "width": 1310,
+      "height": 616,
+      "size": 86030
+    },
+    {
+      "id": "GATE-2025-EC-Q22",
+      "status": "RESTORED",
+      "year": 2025,
+      "subject": "Network Theory",
+      "url": "/figures/2025/GATE-2025-EC-Q22.png",
+      "width": 1310,
+      "height": 684,
+      "size": 91139
+    },
+    {
+      "id": "GATE-2025-EC-Q26",
+      "status": "RESTORED",
+      "year": 2025,
+      "subject": "Control Systems",
+      "url": "/figures/2025/GATE-2025-EC-Q26.png",
+      "width": 1310,
+      "height": 1060,
+      "size": 150913
+    },
+    {
+      "id": "GATE-2025-EC-Q40",
+      "status": "RESTORED",
+      "year": 2025,
+      "subject": "Digital Circuits",
+      "url": "/figures/2025/GATE-2025-EC-Q40.png",
+      "width": 1310,
+      "height": 489,
+      "size": 69332
+    },
+    {
+      "id": "GATE-2025-EC-Q43",
+      "status": "RESTORED",
+      "year": 2025,
+      "subject": "Analog Circuits",
+      "url": "/figures/2025/GATE-2025-EC-Q43.png",
+      "width": 1310,
+      "height": 768,
+      "size": 122903
+    },
+    {
+      "id": "GATE-2025-EC-Q49",
+      "status": "RESTORED",
+      "year": 2025,
+      "subject": "Electronic Devices",
+      "url": "/figures/2025/GATE-2025-EC-Q49.png",
+      "width": 1310,
+      "height": 710,
+      "size": 156237
+    },
+    {
+      "id": "GATE-2025-EC-Q56",
+      "status": "RESTORED",
+      "year": 2025,
+      "subject": "Communications",
+      "url": "/figures/2025/GATE-2025-EC-Q56.png",
+      "width": 1310,
+      "height": 426,
+      "size": 43600
+    },
+    {
+      "id": "GATE-2025-EC-Q57",
+      "status": "RESTORED",
+      "year": 2025,
+      "subject": "Digital Circuits",
+      "url": "/figures/2025/GATE-2025-EC-Q57.png",
+      "width": 1310,
+      "height": 425,
+      "size": 54607
+    },
+    {
+      "id": "GATE-2025-EC-Q61",
+      "status": "RESTORED",
+      "year": 2025,
+      "subject": "Network Theory",
+      "url": "/figures/2025/GATE-2025-EC-Q61.png",
+      "width": 1310,
+      "height": 488,
+      "size": 53496
+    },
+    {
+      "id": "GATE-2025-EC-Q62",
+      "status": "RESTORED",
+      "year": 2025,
+      "subject": "Digital Circuits",
+      "url": "/figures/2025/GATE-2025-EC-Q62.png",
+      "width": 1310,
+      "height": 459,
+      "size": 87250
+    },
+    {
+      "id": "GATE-2025-EC-Q65",
+      "status": "RESTORED",
+      "year": 2025,
+      "subject": "Digital Circuits",
+      "url": "/figures/2025/GATE-2025-EC-Q65.png",
+      "width": 1310,
+      "height": 589,
+      "size": 167197
+    },
+    {
+      "id": "GATE-2024-EC-GA09",
+      "status": "RESTORED",
+      "year": 2024,
+      "subject": "General Aptitude",
+      "url": "/figures/2024/GATE-2024-EC-GA09.png",
+      "width": 1058,
+      "height": 840,
+      "size": 58294
+    },
+    {
+      "id": "GATE-2024-EC-Q13",
+      "status": "RESTORED",
+      "year": 2024,
+      "subject": "Signals and Systems",
+      "url": "/figures/2024/GATE-2024-EC-Q13.png",
+      "width": 1033,
+      "height": 624,
+      "size": 49949
+    },
+    {
+      "id": "GATE-2024-EC-Q18",
+      "status": "RESTORED",
+      "year": 2024,
+      "subject": "Analog Circuits",
+      "url": "/figures/2024/GATE-2024-EC-Q18.png",
+      "width": 992,
+      "height": 884,
+      "size": 50362
+    },
+    {
+      "id": "GATE-2024-EC-Q23",
+      "status": "RESTORED",
+      "year": 2024,
+      "subject": "Network Theory",
+      "url": "/figures/2024/GATE-2024-EC-Q23.png",
+      "width": 887,
+      "height": 690,
+      "size": 68560
+    },
+    {
+      "id": "GATE-2024-EC-Q26",
+      "status": "RESTORED",
+      "year": 2024,
+      "subject": "Digital Circuits",
+      "url": "/figures/2024/GATE-2024-EC-Q26.png",
+      "width": 812,
+      "height": 380,
+      "size": 18365
+    },
+    {
+      "id": "GATE-2024-EC-Q31",
+      "status": "RESTORED",
+      "year": 2024,
+      "subject": "Electronic Devices",
+      "url": "/figures/2024/GATE-2024-EC-Q31.png",
+      "width": 906,
+      "height": 580,
+      "size": 33822
+    },
+    {
+      "id": "GATE-2024-EC-Q32",
+      "status": "RESTORED",
+      "year": 2024,
+      "subject": "Network Theory",
+      "url": "/figures/2024/GATE-2024-EC-Q32.png",
+      "width": 848,
+      "height": 549,
+      "size": 39934
+    },
+    {
+      "id": "GATE-2024-EC-Q35",
+      "status": "RESTORED",
+      "year": 2024,
+      "subject": "Network Theory",
+      "url": "/figures/2024/GATE-2024-EC-Q35.png",
+      "width": 1162,
+      "height": 1084,
+      "size": 63836
+    },
+    {
+      "id": "GATE-2024-EC-Q41",
+      "status": "RESTORED",
+      "year": 2024,
+      "subject": "Digital Circuits",
+      "url": "/figures/2024/GATE-2024-EC-Q41.png",
+      "width": 712,
+      "height": 706,
+      "size": 30618
+    },
+    {
+      "id": "GATE-2024-EC-Q49",
+      "status": "RESTORED",
+      "year": 2024,
+      "subject": "Analog Circuits",
+      "url": "/figures/2024/GATE-2024-EC-Q49.png",
+      "width": 1008,
+      "height": 840,
+      "size": 130547
+    },
+    {
+      "id": "GATE-2024-EC-Q51",
+      "status": "RESTORED",
+      "year": 2024,
+      "subject": "Analog Circuits",
+      "url": "/figures/2024/GATE-2024-EC-Q51.png",
+      "width": 707,
+      "height": 827,
+      "size": 52623
+    },
+    {
+      "id": "GATE-2024-EC-Q62",
+      "status": "RESTORED",
+      "year": 2024,
+      "subject": "Network Theory",
+      "url": "/figures/2024/GATE-2024-EC-Q62.png",
+      "width": 499,
+      "height": 334,
+      "size": 16186
+    },
+    {
+      "id": "GATE-2023-EC-Q21",
+      "status": "RESTORED",
+      "year": 2023,
+      "subject": "Network Theory",
+      "url": "/figures/2023/GATE-2023-EC-Q21.png",
+      "width": 1310,
+      "height": 514,
+      "size": 14891
+    },
+    {
+      "id": "GATE-2023-EC-Q23",
+      "status": "RESTORED",
+      "year": 2023,
+      "subject": "Digital Circuits",
+      "url": "/figures/2023/GATE-2023-EC-Q23.png",
+      "width": 1310,
+      "height": 535,
+      "size": 13715
+    },
+    {
+      "id": "GATE-2023-EC-Q24",
+      "status": "RESTORED",
+      "year": 2023,
+      "subject": "Digital Circuits",
+      "url": "/figures/2023/GATE-2023-EC-Q24.png",
+      "width": 1310,
+      "height": 486,
+      "size": 21945
+    },
+    {
+      "id": "GATE-2023-EC-Q32",
+      "status": "RESTORED",
+      "year": 2023,
+      "subject": "Network Theory",
+      "url": "/figures/2023/GATE-2023-EC-Q32.png",
+      "width": 1310,
+      "height": 605,
+      "size": 31835
+    },
+    {
+      "id": "GATE-2023-EC-Q34",
+      "status": "RESTORED",
+      "year": 2023,
+      "subject": "Digital Circuits",
+      "url": "/figures/2023/GATE-2023-EC-Q34.png",
+      "width": 1310,
+      "height": 464,
+      "size": 13068
+    },
+    {
+      "id": "GATE-2023-EC-Q35",
+      "status": "RESTORED",
+      "year": 2023,
+      "subject": "Network Theory",
+      "url": "/figures/2023/GATE-2023-EC-Q35.png",
+      "width": 1310,
+      "height": 396,
+      "size": 15195
+    },
+    {
+      "id": "GATE-2023-EC-Q36",
+      "status": "RESTORED",
+      "year": 2023,
+      "subject": "Digital Circuits",
+      "url": "/figures/2023/GATE-2023-EC-Q36.png",
+      "width": 1310,
+      "height": 450,
+      "size": 13305
+    },
+    {
+      "id": "GATE-2023-EC-Q39",
+      "status": "RESTORED",
+      "year": 2023,
+      "subject": "Electronic Devices",
+      "url": "/figures/2023/GATE-2023-EC-Q39.png",
+      "width": 1310,
+      "height": 747,
+      "size": 42779
+    },
+    {
+      "id": "GATE-2023-EC-Q40",
+      "status": "RESTORED",
+      "year": 2023,
+      "subject": "Network Theory",
+      "url": "/figures/2023/GATE-2023-EC-Q40.png",
+      "width": 1310,
+      "height": 375,
+      "size": 12714
+    },
+    {
+      "id": "GATE-2023-EC-Q41",
+      "status": "RESTORED",
+      "year": 2023,
+      "subject": "Digital Circuits",
+      "url": "/figures/2023/GATE-2023-EC-Q41.png",
+      "width": 1310,
+      "height": 366,
+      "size": 19180
+    },
+    {
+      "id": "GATE-2023-EC-Q55",
+      "status": "RESTORED",
+      "year": 2023,
+      "subject": "Electronic Devices",
+      "url": "/figures/2023/GATE-2023-EC-Q55.png",
+      "width": 1310,
+      "height": 666,
+      "size": 26318
+    },
+    {
+      "id": "GATE-2023-EC-Q58",
+      "status": "RESTORED",
+      "year": 2023,
+      "subject": "Electronic Devices",
+      "url": "/figures/2023/GATE-2023-EC-Q58.png",
+      "width": 1310,
+      "height": 443,
+      "size": 9627
+    },
+    {
+      "id": "GATE-2022-EC-Q11",
+      "status": "RESTORED",
+      "year": 2022,
+      "subject": "Digital Circuits",
+      "url": "/figures/2022/GATE-2022-EC-Q11.png",
+      "width": 1235,
+      "height": 668,
+      "size": 57809
+    },
+    {
+      "id": "GATE-2022-EC-Q13",
+      "status": "RESTORED",
+      "year": 2022,
+      "subject": "Engineering Mathematics",
+      "url": "/figures/2022/GATE-2022-EC-Q13.png",
+      "width": 1235,
+      "height": 474,
+      "size": 44490
+    },
+    {
+      "id": "GATE-2022-EC-Q14",
+      "status": "RESTORED",
+      "year": 2022,
+      "subject": "Engineering Mathematics",
+      "url": "/figures/2022/GATE-2022-EC-Q14.png",
+      "width": 1235,
+      "height": 474,
+      "size": 45253
+    },
+    {
+      "id": "GATE-2022-EC-Q18",
+      "status": "RESTORED",
+      "year": 2022,
+      "subject": "Electronic Devices",
+      "url": "/figures/2022/GATE-2022-EC-Q18.png",
+      "width": 1235,
+      "height": 743,
+      "size": 88736
+    },
+    {
+      "id": "GATE-2022-EC-Q19",
+      "status": "RESTORED",
+      "year": 2022,
+      "subject": "Digital Circuits",
+      "url": "/figures/2022/GATE-2022-EC-Q19.png",
+      "width": 1235,
+      "height": 474,
+      "size": 34410
+    },
+    {
+      "id": "GATE-2022-EC-Q20",
+      "status": "RESTORED",
+      "year": 2022,
+      "subject": "Digital Circuits",
+      "url": "/figures/2022/GATE-2022-EC-Q20.png",
+      "width": 1235,
+      "height": 437,
+      "size": 39036
+    },
+    {
+      "id": "GATE-2022-EC-Q21",
+      "status": "RESTORED",
+      "year": 2022,
+      "subject": "Communications",
+      "url": "/figures/2022/GATE-2022-EC-Q21.png",
+      "width": 1235,
+      "height": 690,
+      "size": 87687
+    },
+    {
+      "id": "GATE-2022-EC-Q22",
+      "status": "RESTORED",
+      "year": 2022,
+      "subject": "Control Systems",
+      "url": "/figures/2022/GATE-2022-EC-Q22.png",
+      "width": 1235,
+      "height": 736,
+      "size": 87097
+    },
+    {
+      "id": "GATE-2022-EC-Q23",
+      "status": "RESTORED",
+      "year": 2022,
+      "subject": "Communications",
+      "url": "/figures/2022/GATE-2022-EC-Q23.png",
+      "width": 1235,
+      "height": 492,
+      "size": 25876
+    },
+    {
+      "id": "GATE-2022-EC-Q26",
+      "status": "RESTORED",
+      "year": 2022,
+      "subject": "Digital Circuits",
+      "url": "/figures/2022/GATE-2022-EC-Q26.png",
+      "width": 1235,
+      "height": 474,
+      "size": 60744
+    },
+    {
+      "id": "GATE-2022-EC-Q32",
+      "status": "RESTORED",
+      "year": 2022,
+      "subject": "Electronic Devices",
+      "url": "/figures/2022/GATE-2022-EC-Q32.png",
+      "width": 1235,
+      "height": 1000,
+      "size": 81621
+    },
+    {
+      "id": "GATE-2022-EC-Q34",
+      "status": "RESTORED",
+      "year": 2022,
+      "subject": "Electronic Devices",
+      "url": "/figures/2022/GATE-2022-EC-Q34.png",
+      "width": 1235,
+      "height": 386,
+      "size": 29164
+    },
+    {
+      "id": "GATE-2022-EC-Q38",
+      "status": "RESTORED",
+      "year": 2022,
+      "subject": "Digital Circuits",
+      "url": "/figures/2022/GATE-2022-EC-Q38.png",
+      "width": 1235,
+      "height": 474,
+      "size": 69153
+    },
+    {
+      "id": "GATE-2022-EC-Q39",
+      "status": "RESTORED",
+      "year": 2022,
+      "subject": "Network Theory",
+      "url": "/figures/2022/GATE-2022-EC-Q39.png",
+      "width": 1235,
+      "height": 474,
+      "size": 71669
+    },
+    {
+      "id": "GATE-2022-EC-Q43",
+      "status": "RESTORED",
+      "year": 2022,
+      "subject": "Digital Circuits",
+      "url": "/figures/2022/GATE-2022-EC-Q43.png",
+      "width": 1235,
+      "height": 474,
+      "size": 41463
+    },
+    {
+      "id": "GATE-2022-EC-Q46",
+      "status": "RESTORED",
+      "year": 2022,
+      "subject": "Signals and Systems",
+      "url": "/figures/2022/GATE-2022-EC-Q46.png",
+      "width": 1235,
+      "height": 662,
+      "size": 59765
+    },
+    {
+      "id": "GATE-2022-EC-Q48",
+      "status": "RESTORED",
+      "year": 2022,
+      "subject": "Communications",
+      "url": "/figures/2022/GATE-2022-EC-Q48.png",
+      "width": 1235,
+      "height": 568,
+      "size": 63988
+    },
+    {
+      "id": "GATE-2022-EC-Q51",
+      "status": "RESTORED",
+      "year": 2022,
+      "subject": "Communications",
+      "url": "/figures/2022/GATE-2022-EC-Q51.png",
+      "width": 1235,
+      "height": 714,
+      "size": 62643
+    },
+    {
+      "id": "GATE-2022-EC-Q53",
+      "status": "RESTORED",
+      "year": 2022,
+      "subject": "Digital Circuits",
+      "url": "/figures/2022/GATE-2022-EC-Q53.png",
+      "width": 1235,
+      "height": 857,
+      "size": 66564
+    },
+    {
+      "id": "GATE-2022-EC-Q60",
+      "status": "RESTORED",
+      "year": 2022,
+      "subject": "Communications",
+      "url": "/figures/2022/GATE-2022-EC-Q60.png",
+      "width": 1235,
+      "height": 514,
+      "size": 45876
+    },
+    {
+      "id": "GATE-2022-EC-Q61",
+      "status": "RESTORED",
+      "year": 2022,
+      "subject": "Communications",
+      "url": "/figures/2022/GATE-2022-EC-Q61.png",
+      "width": 1235,
+      "height": 701,
+      "size": 68155
+    }
+  ]
+}

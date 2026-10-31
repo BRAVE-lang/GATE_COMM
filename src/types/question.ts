@@ -104,6 +104,7 @@ export interface Question {
   negativeMarks: number;
   statement: string; // May include LaTeX math $...$ and $$...$$
   figure?: QuestionFigure | null;
+  figures?: QuestionFigure[];
   options?: Option[] | null; // For MCQ & MSQ
   officialAnswer: string | string[] | [number, number]; // MCQ: 'B', MSQ: ['A', 'C'], NAT: [min, max] or [value, value]
   detailedSolution: WorkedSolution;

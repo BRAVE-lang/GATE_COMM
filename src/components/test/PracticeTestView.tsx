@@ -7,6 +7,7 @@ import { evaluateTestScore } from '../../services/scoring';
 import { OptionSelector } from '../questions/OptionSelector';
 import { NatInput } from '../questions/NatInput';
 import { MathView } from '../common/MathView';
+import { QuestionFigureViewer } from '../common/QuestionFigureViewer';
 import { DetailedSolutionViewer } from '../questions/DetailedSolutionViewer';
 import { VirtualCalculator } from '../common/VirtualCalculator';
 import {
@@ -385,11 +386,12 @@ export const PracticeTestView: React.FC<PracticeTestViewProps> = ({
             <MathView content={currentQ.statement} />
           </div>
 
-          {currentQ.figure && (
-            <div className="my-4 p-3 rounded-xl bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 flex justify-center">
-              <div dangerouslySetInnerHTML={{ __html: currentQ.figure.content }} />
-            </div>
-          )}
+          {/* Circuit / Question Figure */}
+          <QuestionFigureViewer
+            figure={currentQ.figure}
+            figures={currentQ.figures}
+            title={`Diagram for ${currentQ.id}`}
+          />
 
           <div className="mt-6">
             {currentQ.type === 'NAT' ? (
@@ -580,11 +582,12 @@ export const PracticeTestView: React.FC<PracticeTestViewProps> = ({
                   <MathView content={q.statement} />
                 </div>
 
-                {q.figure && (
-                  <div className="my-2 p-2 rounded-xl bg-slate-50 dark:bg-slate-950 flex justify-center">
-                    <div dangerouslySetInnerHTML={{ __html: q.figure.content }} />
-                  </div>
-                )}
+                {/* Question Figure with Zoom support */}
+                <QuestionFigureViewer
+                  figure={q.figure}
+                  figures={q.figures}
+                  title={`Diagram for ${q.id}`}
+                />
 
                 {/* Response summary */}
                 <div className="p-3 rounded-xl bg-slate-50 dark:bg-slate-800/80 text-xs flex flex-wrap items-center justify-between gap-2">
@@ -611,6 +614,8 @@ export const PracticeTestView: React.FC<PracticeTestViewProps> = ({
                   officialAnswerText={
                     Array.isArray(q.officialAnswer) ? q.officialAnswer.join(', ') : String(q.officialAnswer)
                   }
+                  figure={q.figure}
+                  figures={q.figures}
                 />
               </div>
             );

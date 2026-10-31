@@ -1399,7 +1399,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2026/GATE-2026-EC-Q17.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2026-EC-Q17 (Analog Circuits)"
+    }
   },
   {
     "id": "GATE-2026-EC-Q18",
@@ -1481,7 +1486,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2026/GATE-2026-EC-Q18.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2026-EC-Q18 (Engineering Mathematics)"
+    }
   },
   {
     "id": "GATE-2026-EC-Q19",
@@ -1563,7 +1573,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2026/GATE-2026-EC-Q19.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2026-EC-Q19 (Control Systems)"
+    }
   },
   {
     "id": "GATE-2026-EC-Q20",
@@ -1645,7 +1660,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2026/GATE-2026-EC-Q20.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2026-EC-Q20 (Electronic Devices)"
+    }
   },
   {
     "id": "GATE-2026-EC-Q21",
@@ -2460,7 +2480,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "NAT"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2026/GATE-2026-EC-Q30.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2026-EC-Q30 (Network Theory)"
+    }
   },
   {
     "id": "GATE-2026-EC-Q31",
@@ -2528,7 +2553,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "NAT"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2026/GATE-2026-EC-Q31.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2026-EC-Q31 (Network Theory)"
+    }
   },
   {
     "id": "GATE-2026-EC-Q32",
@@ -3128,7 +3158,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2026/GATE-2026-EC-Q39.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2026-EC-Q39 (Communications)"
+    }
   },
   {
     "id": "GATE-2026-EC-Q40",
@@ -3210,7 +3245,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2026/GATE-2026-EC-Q40.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2026-EC-Q40 (Control Systems)"
+    }
   },
   {
     "id": "GATE-2026-EC-Q41",
@@ -3862,7 +3902,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2026/GATE-2026-EC-Q48.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2026-EC-Q48 (Digital Circuits)"
+    }
   },
   {
     "id": "GATE-2026-EC-Q49",
@@ -3940,7 +3985,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2026/GATE-2026-EC-Q49.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2026-EC-Q49 (Digital Circuits)"
+    }
   },
   {
     "id": "GATE-2026-EC-Q50",
@@ -4022,7 +4072,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2026/GATE-2026-EC-Q50.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2026-EC-Q50 (Analog Circuits)"
+    }
   },
   {
     "id": "GATE-2026-EC-Q51",
@@ -4104,7 +4159,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2026/GATE-2026-EC-Q51.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2026-EC-Q51 (Digital Circuits)"
+    }
   },
   {
     "id": "GATE-2026-EC-Q52",
@@ -4268,7 +4328,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2026/GATE-2026-EC-Q53.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2026-EC-Q53 (Analog Circuits)"
+    }
   },
   {
     "id": "GATE-2026-EC-Q54",
@@ -4733,7 +4798,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "NAT"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2026/GATE-2026-EC-Q59.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2026-EC-Q59 (Electronic Devices)"
+    }
   },
   {
     "id": "GATE-2026-EC-Q60",
@@ -4801,7 +4871,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "NAT"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2026/GATE-2026-EC-Q60.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2026-EC-Q60 (Electronic Devices)"
+    }
   },
   {
     "id": "GATE-2026-EC-Q61",
@@ -4937,7 +5012,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "NAT"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2026/GATE-2026-EC-Q62.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2026-EC-Q62 (Analog Circuits)"
+    }
   },
   {
     "id": "GATE-2026-EC-Q63",
@@ -5141,7 +5221,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "NAT"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2026/GATE-2026-EC-Q65.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2026-EC-Q65 (Network Theory)"
+    }
   },
   {
     "id": "GATE-2025-EC-GA01",
@@ -5711,7 +5796,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2025/GATE-2025-EC-GA07.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2025-EC-GA07 (General Aptitude)"
+    }
   },
   {
     "id": "GATE-2025-EC-GA08",
@@ -6445,7 +6535,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2025/GATE-2025-EC-Q16.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2025-EC-Q16 (Control Systems)"
+    }
   },
   {
     "id": "GATE-2025-EC-Q17",
@@ -6773,7 +6868,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2025/GATE-2025-EC-Q20.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2025-EC-Q20 (Network Theory)"
+    }
   },
   {
     "id": "GATE-2025-EC-Q21",
@@ -6937,7 +7037,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2025/GATE-2025-EC-Q22.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2025-EC-Q22 (Network Theory)"
+    }
   },
   {
     "id": "GATE-2025-EC-Q23",
@@ -7270,7 +7375,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MSQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2025/GATE-2025-EC-Q26.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2025-EC-Q26 (Control Systems)"
+    }
   },
   {
     "id": "GATE-2025-EC-Q27",
@@ -8343,7 +8453,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2025/GATE-2025-EC-Q40.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2025-EC-Q40 (Digital Circuits)"
+    }
   },
   {
     "id": "GATE-2025-EC-Q41",
@@ -8589,7 +8704,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2025/GATE-2025-EC-Q43.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2025-EC-Q43 (Analog Circuits)"
+    }
   },
   {
     "id": "GATE-2025-EC-Q44",
@@ -9081,7 +9201,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2025/GATE-2025-EC-Q49.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2025-EC-Q49 (Electronic Devices)"
+    }
   },
   {
     "id": "GATE-2025-EC-Q50",
@@ -9624,7 +9749,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MSQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2025/GATE-2025-EC-Q56.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2025-EC-Q56 (Communications)"
+    }
   },
   {
     "id": "GATE-2025-EC-Q57",
@@ -9705,7 +9835,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MSQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2025/GATE-2025-EC-Q57.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2025-EC-Q57 (Digital Circuits)"
+    }
   },
   {
     "id": "GATE-2025-EC-Q58",
@@ -9977,7 +10112,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "NAT"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2025/GATE-2025-EC-Q61.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2025-EC-Q61 (Network Theory)"
+    }
   },
   {
     "id": "GATE-2025-EC-Q62",
@@ -10045,7 +10185,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "NAT"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2025/GATE-2025-EC-Q62.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2025-EC-Q62 (Digital Circuits)"
+    }
   },
   {
     "id": "GATE-2025-EC-Q63",
@@ -10249,7 +10394,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "NAT"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2025/GATE-2025-EC-Q65.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2025-EC-Q65 (Digital Circuits)"
+    }
   },
   {
     "id": "GATE-2024-EC-GA01",
@@ -10983,7 +11133,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2024/GATE-2024-EC-GA09.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2024-EC-GA09 (General Aptitude)"
+    }
   },
   {
     "id": "GATE-2024-EC-GA10",
@@ -11311,7 +11466,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2024/GATE-2024-EC-Q13.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2024-EC-Q13 (Signals and Systems)"
+    }
   },
   {
     "id": "GATE-2024-EC-Q14",
@@ -11713,7 +11873,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2024/GATE-2024-EC-Q18.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2024-EC-Q18 (Analog Circuits)"
+    }
   },
   {
     "id": "GATE-2024-EC-Q19",
@@ -12119,7 +12284,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2024/GATE-2024-EC-Q23.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2024-EC-Q23 (Network Theory)"
+    }
   },
   {
     "id": "GATE-2024-EC-Q24",
@@ -12368,7 +12538,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MSQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2024/GATE-2024-EC-Q26.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2024-EC-Q26 (Digital Circuits)"
+    }
   },
   {
     "id": "GATE-2024-EC-Q27",
@@ -12713,7 +12888,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "NAT"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2024/GATE-2024-EC-Q31.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2024-EC-Q31 (Electronic Devices)"
+    }
   },
   {
     "id": "GATE-2024-EC-Q32",
@@ -12781,7 +12961,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "NAT"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2024/GATE-2024-EC-Q32.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2024-EC-Q32 (Network Theory)"
+    }
   },
   {
     "id": "GATE-2024-EC-Q33",
@@ -12985,7 +13170,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "NAT"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2024/GATE-2024-EC-Q35.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2024-EC-Q35 (Network Theory)"
+    }
   },
   {
     "id": "GATE-2024-EC-Q36",
@@ -13477,7 +13667,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2024/GATE-2024-EC-Q41.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2024-EC-Q41 (Digital Circuits)"
+    }
   },
   {
     "id": "GATE-2024-EC-Q42",
@@ -14133,7 +14328,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2024/GATE-2024-EC-Q49.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2024-EC-Q49 (Analog Circuits)"
+    }
   },
   {
     "id": "GATE-2024-EC-Q50",
@@ -14297,7 +14497,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2024/GATE-2024-EC-Q51.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2024-EC-Q51 (Analog Circuits)"
+    }
   },
   {
     "id": "GATE-2024-EC-Q52",
@@ -15126,7 +15331,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "NAT"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2024/GATE-2024-EC-Q62.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2024-EC-Q62 (Network Theory)"
+    }
   },
   {
     "id": "GATE-2024-EC-Q63",
@@ -17053,7 +17263,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2023/GATE-2023-EC-Q21.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2023-EC-Q21 (Network Theory)"
+    }
   },
   {
     "id": "GATE-2023-EC-Q22",
@@ -17217,7 +17432,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2023/GATE-2023-EC-Q23.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2023-EC-Q23 (Digital Circuits)"
+    }
   },
   {
     "id": "GATE-2023-EC-Q24",
@@ -17299,7 +17519,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2023/GATE-2023-EC-Q24.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2023-EC-Q24 (Digital Circuits)"
+    }
   },
   {
     "id": "GATE-2023-EC-Q25",
@@ -17913,7 +18138,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "NAT"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2023/GATE-2023-EC-Q32.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2023-EC-Q32 (Network Theory)"
+    }
   },
   {
     "id": "GATE-2023-EC-Q33",
@@ -18049,7 +18279,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "NAT"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2023/GATE-2023-EC-Q34.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2023-EC-Q34 (Digital Circuits)"
+    }
   },
   {
     "id": "GATE-2023-EC-Q35",
@@ -18117,7 +18352,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "NAT"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2023/GATE-2023-EC-Q35.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2023-EC-Q35 (Network Theory)"
+    }
   },
   {
     "id": "GATE-2023-EC-Q36",
@@ -18199,7 +18439,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2023/GATE-2023-EC-Q36.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2023-EC-Q36 (Digital Circuits)"
+    }
   },
   {
     "id": "GATE-2023-EC-Q37",
@@ -18445,7 +18690,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2023/GATE-2023-EC-Q39.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2023-EC-Q39 (Electronic Devices)"
+    }
   },
   {
     "id": "GATE-2023-EC-Q40",
@@ -18527,7 +18777,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2023/GATE-2023-EC-Q40.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2023-EC-Q40 (Network Theory)"
+    }
   },
   {
     "id": "GATE-2023-EC-Q41",
@@ -18605,7 +18860,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2023/GATE-2023-EC-Q41.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2023-EC-Q41 (Digital Circuits)"
+    }
   },
   {
     "id": "GATE-2023-EC-Q42",
@@ -19750,7 +20010,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "NAT"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2023/GATE-2023-EC-Q55.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2023-EC-Q55 (Electronic Devices)"
+    }
   },
   {
     "id": "GATE-2023-EC-Q56",
@@ -19954,7 +20219,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "NAT"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2023/GATE-2023-EC-Q58.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2023-EC-Q58 (Electronic Devices)"
+    }
   },
   {
     "id": "GATE-2023-EC-Q59",
@@ -21328,7 +21598,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2022/GATE-2022-EC-Q11.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2022-EC-Q11 (Digital Circuits)"
+    }
   },
   {
     "id": "GATE-2022-EC-Q12",
@@ -21484,7 +21759,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2022/GATE-2022-EC-Q13.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2022-EC-Q13 (Engineering Mathematics)"
+    }
   },
   {
     "id": "GATE-2022-EC-Q14",
@@ -21562,7 +21842,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2022/GATE-2022-EC-Q14.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2022-EC-Q14 (Engineering Mathematics)"
+    }
   },
   {
     "id": "GATE-2022-EC-Q15",
@@ -21874,7 +22159,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2022/GATE-2022-EC-Q18.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2022-EC-Q18 (Electronic Devices)"
+    }
   },
   {
     "id": "GATE-2022-EC-Q19",
@@ -21952,7 +22242,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2022/GATE-2022-EC-Q19.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2022-EC-Q19 (Digital Circuits)"
+    }
   },
   {
     "id": "GATE-2022-EC-Q20",
@@ -22030,7 +22325,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2022/GATE-2022-EC-Q20.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2022-EC-Q20 (Digital Circuits)"
+    }
   },
   {
     "id": "GATE-2022-EC-Q21",
@@ -22108,7 +22408,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2022/GATE-2022-EC-Q21.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2022-EC-Q21 (Communications)"
+    }
   },
   {
     "id": "GATE-2022-EC-Q22",
@@ -22190,7 +22495,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2022/GATE-2022-EC-Q22.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2022-EC-Q22 (Control Systems)"
+    }
   },
   {
     "id": "GATE-2022-EC-Q23",
@@ -22268,7 +22578,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2022/GATE-2022-EC-Q23.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2022-EC-Q23 (Communications)"
+    }
   },
   {
     "id": "GATE-2022-EC-Q24",
@@ -22512,7 +22827,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MSQ"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2022/GATE-2022-EC-Q26.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2022-EC-Q26 (Digital Circuits)"
+    }
   },
   {
     "id": "GATE-2022-EC-Q27",
@@ -22942,7 +23262,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "NAT"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2022/GATE-2022-EC-Q32.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2022-EC-Q32 (Electronic Devices)"
+    }
   },
   {
     "id": "GATE-2022-EC-Q33",
@@ -23078,7 +23403,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "NAT"
     ],
     "estimatedSolvingTimeSeconds": 60,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2022/GATE-2022-EC-Q34.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2022-EC-Q34 (Electronic Devices)"
+    }
   },
   {
     "id": "GATE-2022-EC-Q35",
@@ -23384,7 +23714,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2022/GATE-2022-EC-Q38.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2022-EC-Q38 (Digital Circuits)"
+    }
   },
   {
     "id": "GATE-2022-EC-Q39",
@@ -23462,7 +23797,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2022/GATE-2022-EC-Q39.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2022-EC-Q39 (Network Theory)"
+    }
   },
   {
     "id": "GATE-2022-EC-Q40",
@@ -23774,7 +24114,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MCQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2022/GATE-2022-EC-Q43.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2022-EC-Q43 (Digital Circuits)"
+    }
   },
   {
     "id": "GATE-2022-EC-Q44",
@@ -24014,7 +24359,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MSQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2022/GATE-2022-EC-Q46.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2022-EC-Q46 (Signals and Systems)"
+    }
   },
   {
     "id": "GATE-2022-EC-Q47",
@@ -24176,7 +24526,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MSQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2022/GATE-2022-EC-Q48.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2022-EC-Q48 (Communications)"
+    }
   },
   {
     "id": "GATE-2022-EC-Q49",
@@ -24408,7 +24763,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "MSQ"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2022/GATE-2022-EC-Q51.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2022-EC-Q51 (Communications)"
+    }
   },
   {
     "id": "GATE-2022-EC-Q52",
@@ -24556,7 +24916,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "NAT"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2022/GATE-2022-EC-Q53.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2022-EC-Q53 (Digital Circuits)"
+    }
   },
   {
     "id": "GATE-2022-EC-Q54",
@@ -25032,7 +25397,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "NAT"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2022/GATE-2022-EC-Q60.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2022-EC-Q60 (Communications)"
+    }
   },
   {
     "id": "GATE-2022-EC-Q61",
@@ -25100,7 +25470,12 @@ export const AUTHENTIC_GATE_EC_PYQS: Question[] = [
       "NAT"
     ],
     "estimatedSolvingTimeSeconds": 120,
-    "provenanceType": "authentic_pyq"
+    "provenanceType": "authentic_pyq",
+    "figure": {
+      "type": "image",
+      "content": "/figures/2022/GATE-2022-EC-Q61.png",
+      "caption": "Figure: Circuit / Schematic diagram for GATE-2022-EC-Q61 (Communications)"
+    }
   },
   {
     "id": "GATE-2022-EC-Q62",

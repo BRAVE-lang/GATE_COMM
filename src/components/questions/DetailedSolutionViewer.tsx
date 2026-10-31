@@ -1,6 +1,7 @@
 import React from 'react';
-import { WorkedSolution, VerificationStatus, ProvenanceType } from '../../types/question';
+import { WorkedSolution, VerificationStatus, ProvenanceType, QuestionFigure } from '../../types/question';
 import { MathView } from '../common/MathView';
+import { QuestionFigureViewer } from '../common/QuestionFigureViewer';
 import { 
   BookOpen, 
   CheckCircle2, 
@@ -22,6 +23,8 @@ interface DetailedSolutionViewerProps {
   provenanceType: ProvenanceType;
   officialAnswerText: string;
   onNavigateRelated?: (questionId: string) => void;
+  figure?: QuestionFigure | null;
+  figures?: QuestionFigure[];
 }
 
 export const DetailedSolutionViewer: React.FC<DetailedSolutionViewerProps> = ({
@@ -31,6 +34,8 @@ export const DetailedSolutionViewer: React.FC<DetailedSolutionViewerProps> = ({
   provenanceType,
   officialAnswerText,
   onNavigateRelated,
+  figure,
+  figures,
 }) => {
   return (
     <div className="space-y-4 text-slate-800 dark:text-slate-100 text-sm leading-relaxed">
@@ -47,6 +52,15 @@ export const DetailedSolutionViewer: React.FC<DetailedSolutionViewerProps> = ({
           <span className="font-medium truncate max-w-[240px] sm:max-w-md">{provenance}</span>
         </div>
       </div>
+
+      {/* Reference Diagram inside Detailed Solution if present */}
+      {(figure || (figures && figures.length > 0)) && (
+        <QuestionFigureViewer
+          figure={figure}
+          figures={figures}
+          title="Reference Circuit / Problem Diagram"
+        />
+      )}
 
       {/* 1. Final Answer with Units Highlight Box */}
       <div className="p-4 rounded-xl bg-emerald-50 dark:bg-emerald-950/40 border-2 border-emerald-500/30 dark:border-emerald-500/20">
