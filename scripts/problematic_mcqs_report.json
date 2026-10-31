@@ -1,0 +1,289 @@
+[
+  {
+    "id": "GATE-2026-EC-GA02",
+    "type": "MCQ",
+    "answer": "A",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "The statements (S1), (S2), and (S3) pertain to the scores obtained by students in  \nan exam. The maximum possible marks in the exam is 150. \n(S1) The highest score is 100. \n(S2) The fourth highest score is 76. \n(S3) There are at least four students whose scores are within 25 of each other. \nWhich one of the following options is necessarily correct? \n  \n(A) (S1) and (S2) together imply (S3) \n(B) (S1) and (S3) together imply (S2) \n(C) (S2) and (S3) together imply (S1) \n(D) (S1) implies (S3)"
+  },
+  {
+    "id": "GATE-2026-EC-Q13",
+    "type": "MCQ",
+    "answer": "D",
+    "curr_options_count": 1,
+    "curr_options": [
+      {
+        "id": "D",
+        "text": "𝑒−2𝑠\n𝑠3"
+      }
+    ],
+    "statement": "The Laplace Transform of the signal 𝑥(𝑡) = 𝑢(𝑡 − 2) ∗ (𝑡𝑢(𝑡)) is given by \nwhich of the following expressions?  \n[“∗” represents convolution operator] \n  \n(A) 𝑒−2𝑠\n𝑠2(𝑠 − 2) \n(B) 𝑒−2(𝑠−2)\n𝑠3  \n(C) 𝑠𝑒−2𝑠\n(𝑠 − 2)2"
+  },
+  {
+    "id": "GATE-2026-EC-Q15",
+    "type": "MCQ",
+    "answer": "D",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "Two analog signals 𝑥1(𝑡) and 𝑥2(𝑡) (t in second), are sampled at a rate \n𝐹𝑠 = 40 Hz, where  \n𝑥1(𝑡) = 𝑐𝑜𝑠(20𝜋𝑡), 𝑡 ≥ 0,  and 𝑥2(𝑡) = 𝑐𝑜𝑠(100𝜋𝑡), 𝑡 ≥ 0. \nThe first ten samples (starting from t = 0) are considered for the analysis. \nWhich of the following statements is TRUE? \n  \n(A) All of the first three samples of 𝑥1(𝑡) are greater than the corresponding samples \nof 𝑥2(𝑡). \n(B) All of the last three samples of 𝑥1(𝑡) are greater than the corresponding samples \nof 𝑥2(𝑡). \n(C) All of the samples of 𝑥2(𝑡) are greater than the corresponding samples of 𝑥1(𝑡). \n(D) All of the fourth to seventh samples of 𝑥1(𝑡) are equal to the corresponding \nsamples of 𝑥2(𝑡)."
+  },
+  {
+    "id": "GATE-2026-EC-Q19",
+    "type": "MCQ",
+    "answer": "B",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "A control system is shown in the Figure.  \nWhich option represents the correct transfer function of the system?    \n       \n  \n(A) 1\n(𝑠+4)2    \n(B) 1\n(𝑠+4)   \n(C) 2\n(𝑠+4)   \n(D) 1\n(𝑠2+8𝑠+17)   \n \n \n \n \n \n \n \n \n \n \n \n ( )  ( ) +\n−\n +\n−\n∑\n∑"
+  },
+  {
+    "id": "GATE-2026-EC-Q23",
+    "type": "MCQ",
+    "answer": "A",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "The relation between the input current (I) and the output voltage (V) of a circuit is \ngoverned by the equation: 𝐶\n𝑑𝑉\n𝑑𝑡 = 𝐼(𝑡) − 𝑚(𝑡). The circuit is excited by      \nI(t) = q(t), where q is a real valued constant. V at 𝑡 = 0− is V0.  \nWhich of the following is an equivalent representation of the above case? \n  \n(A) 𝐶 𝑑𝑉𝑑𝑡 = −𝑚(𝑡), with V(t = 0−) = V0 + q/C \n(B) 𝐶 𝑑𝑉𝑑𝑡 = −𝑚(𝑡), with V(t = 0−) = V0 + q/C + m(t = 0−) \n(C) 𝐶 𝑑𝑉𝑑𝑡 = −𝑚(𝑡), with V(t = 0−) = V0 - q/C + m(t = 0−) \n(D) 𝐶 𝑑𝑉𝑑𝑡 = −𝑚(𝑡), with V(t = 0−) = q/C"
+  },
+  {
+    "id": "GATE-2026-EC-Q36",
+    "type": "MCQ",
+    "answer": "A",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "– Q.65 Carry TWO mark Each"
+  },
+  {
+    "id": "GATE-2026-EC-Q42",
+    "type": "MCQ",
+    "answer": "C",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "The address of the first location of a 256 kilo byte (KB) memory is (2500)H.  \nChoose the correct address of the last location of the memory. \n  \n(A) (2FFF)H \n(B) (124FF)H \n(C) (424FF)H \n(D) (324FF)H"
+  },
+  {
+    "id": "GATE-2026-EC-Q50",
+    "type": "MCQ",
+    "answer": "A",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "A small signal source, 𝑉𝑖(𝑡) = 𝐴 cos(105𝑡) + 𝐵 sin(107𝑡)  is applied to a \nBJT circuit as shown in the Figure. \n \nAssume zero source resistance, VBE = 0.7 V, βdc = 99, Early voltage = 100 V and \nThermal voltage = 25 mV. Effect of internal parasitic capacitances of the BJT \nmay be neglected. \nWhich expression is the best approximation of the output voltage 𝑉𝑜(𝑡)?   \n    \n  \n(A) −9.1[𝐴 cos(105𝑡) + 𝐵 sin(107𝑡)]   \n(B)  9.1[𝐴 cos(105𝑡) − 𝐵 sin(107𝑡)]    \n(C)  −190.4[𝐴 cos(105𝑡) + 𝐵 sin(107𝑡)]   \n(D)   190.4[𝐴 cos(105𝑡) − 𝐵 sin(107𝑡)]"
+  },
+  {
+    "id": "GATE-2025-EC-GA04",
+    "type": "MCQ",
+    "answer": "B",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "The following figures show three curves generated using an iterative algorithm. The \ntotal length of the curve generated after ‘Iteration 𝑛’ is: \nNote: The figures shown are representative. \n  \nIteration 0: \n \n \nIteration 1: \n \n \n \nIteration 2: \n \n(A) \n(53)\n𝑛\n2\n \n(B) (53)𝑛 \n(C) \n(53)2𝑛 \n(D) \n(53)𝑛(2𝑛−1) \n  \n \n \n \n \n1 \nLength of each segment: 13 \nLength of each segment: 19 \n1\n3 \n1\n9"
+  },
+  {
+    "id": "GATE-2025-EC-Q11",
+    "type": "MCQ",
+    "answer": "A",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "Consider the matrix 𝐴 below: \n                                            𝐴 =  [ \n2 3\n0 6   4 57 8\n   0 0\n   0 0   𝛼 𝛽0 𝛾   ] \nFor which of the following combinations of 𝛼, 𝛽, and 𝛾, is the rank of 𝐴 at least \nthree? \n(i) 𝛼 =  0 and 𝛽 = 𝛾 ≠ 0. \n(ii) 𝛼 = 𝛽 = 𝛾 = 0. \n(iii) 𝛽 = 𝛾 = 0 and 𝛼 ≠ 0. \n(iv) 𝛼 = 𝛽 = 𝛾 ≠ 0.  \n(A) Only (i), (iii), and (iv) \n(B) Only (iv) \n(C) Only (ii) \n(D) Only (i) and (iii)"
+  },
+  {
+    "id": "GATE-2025-EC-Q12",
+    "type": "MCQ",
+    "answer": "B",
+    "curr_options_count": 1,
+    "curr_options": [
+      {
+        "id": "D",
+        "text": "All three converge"
+      }
+    ],
+    "statement": "Consider the following series: \n(i) ∑ 1√𝑛∞𝑛=1  \n(ii) ∑ 1𝑛(𝑛+1)∞𝑛=1  \n(iii) ∑ 1𝑛!∞𝑛=1  \nChoose the correct option.   \n(A) Only (ii) converges \n(B) Only (ii) and (iii) converge \n(C) Only (iii) converges"
+  },
+  {
+    "id": "GATE-2025-EC-Q18",
+    "type": "MCQ",
+    "answer": "A",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "Consider a continuous -time, real -valued signal 𝑓(𝑡) whose Fourier transform  \n𝐹(𝜔) = ∫ 𝑓(𝑡) exp(−𝑗 𝜔𝑡) 𝑑𝑡∞−∞  exists.  \nWhich one of the following statements is always TRUE? \n(A) |𝐹(𝜔)| ≤  ∫ |𝑓(𝑡)| 𝑑𝑡∞−∞   \n(B) |𝐹(𝜔)| >  ∫ |𝑓(𝑡)| 𝑑𝑡∞−∞   \n(C) |𝐹(𝜔)| ≤  ∫ 𝑓(𝑡) 𝑑𝑡∞−∞   \n(D) |𝐹(𝜔)| ≥  ∫ 𝑓(𝑡) 𝑑𝑡∞−∞"
+  },
+  {
+    "id": "GATE-2025-EC-Q36",
+    "type": "MCQ",
+    "answer": "D",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "Let 𝐺(𝑠) =  110𝑠2 be the transfer function of a second -order system. A controller \n𝑀(𝑠) is connected to the system 𝐺(𝑠) in the configuration shown below. \nConsider the following statements. \n(i) There exists no controller of the form 𝑀(𝑠) =  𝐾𝐼\n𝑠 , where 𝐾𝐼 is a positive real \nnumber, such that the closed loop system is stable. \n(ii) There exists at least one controller of the form 𝑀(𝑠) = 𝐾𝑃 + 𝑠𝐾𝐷, where 𝐾𝑃 \nand 𝐾𝐷 are positive real numbers, such that the closed loop system is stable. \nWhich one of the following options is correct?  \n \n \n(A) (i) is TRUE and (ii) is FALSE \n(B) (i) is FALSE and (ii) is TRUE \n(C) Both (i) and (ii) are FALSE \n(D) Both (i) and (ii) are TRUE"
+  },
+  {
+    "id": "GATE-2025-EC-Q38",
+    "type": "MCQ",
+    "answer": "A",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "Consider a continuous -time finite -energy signal  𝑓(𝑡) whose Fourier transform \nvanishes outside the frequency interval [−𝜔 𝑐, 𝜔𝑐], where 𝜔𝑐 is in rad/sec.  \nThe signal  𝑓(𝑡) is uniformly sampled to obtain 𝑦(𝑡)  =  𝑓(𝑡) 𝑝(𝑡). Here, \n𝑝(𝑡) =  ∑ 𝛿(𝑡 − 𝜏 − 𝑛𝑇𝑠)\n∞\n𝑛=−∞\n, \nwith 𝛿(𝑡) being the Dirac impulse, 𝑇𝑠 > 0, and 𝜏 > 0. The sampled signal 𝑦(𝑡) \nis passed through an ideal lowpass filter ℎ(𝑡) =  𝜔𝑐𝑇𝑠 sin (𝜔𝑐𝑡)𝜋𝜔𝑐𝑡  with cutoff \nfrequency 𝜔𝑐 and passband gain 𝑇𝑠. \nThe output of the filter is given by ________________.   \n(A) 𝑓(𝑡) if   𝑇𝑠 < 𝜋/𝜔𝑐 \n(B) 𝑓(𝑡 − 𝜏) if   𝑇𝑠 < 𝜋/𝜔𝑐 \n(C) 𝑓(𝑡 − 𝜏) if   𝑇𝑠 < 2𝜋/𝜔𝑐 \n(D) 𝑇𝑠𝑓(𝑡) if   𝑇𝑠 < 2𝜋/𝜔𝑐"
+  },
+  {
+    "id": "GATE-2025-EC-Q42",
+    "type": "MCQ",
+    "answer": "A",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "Consider a real-valued random process  \n𝑓(𝑡) = ∑ 𝑎𝑛\n𝑁\n𝑛=1\n 𝑝(𝑡 − 𝑛𝑇), \nwhere 𝑇 > 0 and 𝑁 is a positive integer. Here, 𝑝(𝑡) = 1 for 𝑡 ∈ [0, 0.5𝑇] and \n0 otherwise. The coefficients 𝑎𝑛 are pairwise independent, zero -mean unit -\nvariance random variables.  \nRead the following statements about the random process  and choose the correct \noption. \n(i) The mean of the process 𝑓(𝑡) is independent of time 𝑡. \n \n(ii) The autocorrelation function 𝐸[ 𝑓(𝑡)𝑓(𝑡 + 𝜏)] is independent of \ntime 𝑡 for all 𝜏.  \n(Here, 𝐸[⋅] is the expectation operation.) \n(A) (i) is TRUE and (ii) is FALSE   \n(B) Both (i) and (ii) are TRUE     \n(C) Both (i) and (ii) are FALSE \n(D) (i) is FALSE and (ii) is TRUE"
+  },
+  {
+    "id": "GATE-2024-EC-GA07",
+    "type": "MCQ",
+    "answer": "D",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "Four identical cylindrical chalk -sticks, each of radius 𝑟 = 0.5 cm and length  \n𝑙 = 10 cm, are bound tightly together using a duct tape as shown in the following \nfigure.   \n \nThe width of the duct tape is equal to the length of the chalk-stick. The area (in cm2) \nof the duct tape required to wrap the bundle of chalk-sticks once, is \n  \n(A) 20 (4 + 𝜋)  \n(B) 20 (8 + 𝜋)  \n(C) 10 (8 + 𝜋)  \n(D) 10 (4 + 𝜋)"
+  },
+  {
+    "id": "GATE-2024-EC-Q11",
+    "type": "MCQ",
+    "answer": "A",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "The general form of the complementary function of a differential equation is given \nby \n2( ) ( ) ty t At B e −=+ , where \nA and\nB are real constants determined by the initial \ncondition. The corresponding differential equation is _____. \n  \n(A) \n2\n2\ndd 4 4 ( )ddyy y f ttt + + =\n \n(B) \n2\n2\nd 4 ( )d y y f tt +=\n \n(C) \n2\n2\ndd 3 2 ( )ddyy y f ttt + + =\n \n(D) \n2\n2\ndd 5 6 ( )ddyy y f ttt + + ="
+  },
+  {
+    "id": "GATE-2024-EC-Q13",
+    "type": "MCQ",
+    "answer": "D",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "In the feedback control system shown in the figure below \n6() ( 1)( 2)Gs s s s= ++ . \n        \n+\n-\n()Gs\n()Ys\n()Rs\n+\n()Es  \n( ), ( ), and ( )R s Y s E s\nare the Laplace transforms of \n( ), ( ), and ( )r t y t e t , respectively. \nIf the input \n()rt is a unit step function, then __________. \n  \n(A) \nlim ( ) 0\nt\net\n→\n=  \n(B) \n1lim ( ) 3t et→ =  \n(C) \n1lim ( ) 4t et→ =  \n(D) \nlim ( )\nt\net\n→ does not exist, \n()et is oscillatory"
+  },
+  {
+    "id": "GATE-2024-EC-Q21",
+    "type": "MCQ",
+    "answer": "A",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "A causal and stable LTI system with impulse response ℎ(𝑡) produces an output 𝑦(𝑡) \nfor an input signal 𝑥(𝑡). A signal 𝑥(0.5𝑡) is applied to a nother causal and stable \nLTI system with impulse response ℎ(0.5𝑡). The resulting output is _____. \n  \n(A) 2𝑦(0.5𝑡) \n(B) 4𝑦(0.5𝑡) \n(C) 0.25𝑦(2𝑡) \n(D) 0.25𝑦(0.25𝑡)"
+  },
+  {
+    "id": "GATE-2024-EC-Q36",
+    "type": "MCQ",
+    "answer": "A",
+    "curr_options_count": 1,
+    "curr_options": [
+      {
+        "id": "C",
+        "text": "22\n3\nR"
+      }
+    ],
+    "statement": "Consider the Earth to be a perfect sphere of radius\n.R Then the surface area of the \nregion, enclosed by the 60°N latitude circle, that contains the north pole in its \ninterior is _______. \n  \n(A) \n2(2 3) R−  \n(B) \n2( 2 1)\n2\nR−"
+  },
+  {
+    "id": "GATE-2024-EC-Q44",
+    "type": "MCQ",
+    "answer": "MTA",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "Consider two continuous time signals 𝑥(𝑡) and 𝑦(𝑡) as shown below \n \n \n \n \n \n \nIf 𝑋(𝑓) denotes the Fourier transform of 𝑥(𝑡), then the Fourier transform of 𝑦(𝑡) \nis _______. \n  \n(A) −4𝑋(4𝑓)𝑒−𝑗𝜋𝑓 \n(B) −4𝑋(4𝑓)𝑒−𝑗4𝜋𝑓 \n(C) − 14 𝑋(𝑓/4)𝑒−𝑗𝜋𝑓 \n(D) − 14 𝑋(𝑓/4)𝑒−𝑗4𝜋𝑓 \n  \n  \n  \n  \n  \n  \n0 \n-1 \n-1 \n0 \n-2 \n 2 \n1\n𝑡 \n 𝑡 \n𝑥(𝑡) \n 𝑦(𝑡) \n0.5"
+  },
+  {
+    "id": "GATE-2024-EC-Q45",
+    "type": "MCQ",
+    "answer": "B",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "A source transmits a symbol \n,s taken from \n{ 4,0,4}−  with equal probability, over an \nadditive white Gaussian noise channel. The received noisy symbol \nr is given by \n,r s w=+\nwhere the noise \nw is zero mean with variance 4 and is independent of \n.s\nUsing 𝑄(𝑥) = 1√2𝜋 ∫ 𝑒−𝑡22∞𝑥 𝑑𝑡, the optimum symbol error probability is _______. \n     \n  \n(A) \n2 (2)3 Q\n   \n(B) \n4 (1)3 Q\n   \n(C) \n2 (1)3 Q\n   \n(D) \n4 (2)3 Q"
+  },
+  {
+    "id": "GATE-2024-EC-Q48",
+    "type": "MCQ",
+    "answer": "MTA",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "A continuous time signal 𝑥(𝑡) = 2 cos(8𝜋𝑡 + 𝜋/3) is sampled at a rate of 15 Hz. \nThe sampled signal 𝑥𝑠(𝑡) when passed through an LTI system with impulse \nresponse \n                           ℎ(𝑡) = (sin 2𝜋𝑡𝜋𝑡 ) cos(38𝜋𝑡 − 𝜋/2) \nproduces an output  𝑥𝑜(𝑡). The expression for  𝑥𝑜(𝑡) is _____. \n  \n(A) 15 sin(38𝜋𝑡 + 𝜋/3) \n(B) 15 sin(38𝜋𝑡 − 𝜋/3) \n(C) 15 cos(38𝜋𝑡 − 𝜋/6) \n(D) 15 cos(38𝜋𝑡 + 𝜋/6)"
+  },
+  {
+    "id": "GATE-2024-EC-Q50",
+    "type": "MCQ",
+    "answer": "B",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "In the circuit below, the opamp is ideal.  \n_\n+\nR1\nR\nR C\nC\nR\n \nIf the circuit is to show sustained oscillations, the respective values of 𝑅1 and the \ncorresponding frequency of oscillation are _____. \n  \n(A) 29𝑅 and 1 (2𝜋√6𝑅𝐶)⁄   \n(B) 2𝑅 and 1 (2𝜋𝑅𝐶)⁄  \n(C) 29𝑅 and 1 (2𝜋𝑅𝐶)⁄  \n(D) 2𝑅 and 1 (2𝜋√6𝑅𝐶)⁄"
+  },
+  {
+    "id": "GATE-2023-EC-GA07",
+    "type": "MCQ",
+    "answer": "A",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "Which one of the following options represents the given graph? \n \n \n(A) \n( ) 22 xxfx −=\n \n(B) \n( )\n.2 xxfx −=\n \n(C) \n( ) 2 xxfx −=  \n(D) \n( )\n.2 xxfx −="
+  },
+  {
+    "id": "GATE-2023-EC-Q14",
+    "type": "MCQ",
+    "answer": "B",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "The value of the contour integral, ∮ ( 𝑧+2𝑧2+2𝑧+2) 𝑑𝑧𝐶  , where the contour C is  \n{𝑧: |𝑧 + 1 −\n3\n2 𝑗| = 1}, taken in the counter clockwise direction, is  \n  \n(A) −𝜋(1 + 𝑗) \n(B) 𝜋(1 + 𝑗) \n(C) 𝜋(1 − 𝑗) \n(D) −𝜋(1 − 𝑗)"
+  },
+  {
+    "id": "GATE-2023-EC-Q29",
+    "type": "MCQ",
+    "answer": "B",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "In the table shown below, match the signal type with its spectral characteristics.  \nSignal type Spectral characteristics \n(i) Continuous, aperiodic  (a)  Continuous, aperiodic \n(ii) Continuous, periodic  (b) Continuous, periodic \n(iii) Discrete, aperiodic  (c) Discrete, aperiodic \n(iv) Discrete, periodic  (d) Discrete, periodic \n. \n  \n(A) (𝑖)  →  (𝑎), (𝑖𝑖) → (𝑏), (𝑖𝑖𝑖)  → (𝑐), (𝑖𝑣)  → (𝑑) \n(B) (𝑖) → (𝑎), (𝑖𝑖) → (𝑐), (𝑖𝑖𝑖) → (𝑏), (𝑖𝑣) → (𝑑) \n(C) (𝑖) → (𝑑), (𝑖𝑖) → (𝑏), (𝑖𝑖𝑖) → (𝑐), (𝑖𝑣) → (𝑎) \n(D) (𝑖) → (𝑎), (𝑖𝑖) → (𝑐), (𝑖𝑖𝑖) → (𝑑), (𝑖𝑣) → (𝑏)"
+  },
+  {
+    "id": "GATE-2023-EC-Q36",
+    "type": "MCQ",
+    "answer": "B",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "A random variable X, distributed normally as 𝑁(0,1), undergoes the transformation \nY = h(X), given in the figure. The form of the probability density function of 𝑌 is  \n(In the options given below, 𝑎, 𝑏, 𝑐 are non-zero constants and 𝑔(𝑦) is piece-wise \ncontinuous function)  \n \n \n(A) 𝑎𝛿(𝑦 − 1) + 𝑏𝛿(𝑦 + 1) + 𝑔(𝑦) \n(B) 𝑎𝛿(𝑦 + 1) + 𝑏𝛿(𝑦) + 𝑐𝛿(𝑦 − 1) + 𝑔(𝑦) \n(C) 𝑎𝛿(𝑦 + 2) + 𝑏𝛿(𝑦) + 𝑐𝛿(𝑦 − 2) + 𝑔(𝑦) \n(D) 𝑎𝛿(𝑦 + 2) + 𝑏𝛿(𝑦 − 2) + 𝑔(𝑦) \n  \n \n \n \n \n \n \n \n \n \n1 2-1-2\n1\n-1\ny = h(x)\nx"
+  },
+  {
+    "id": "GATE-2023-EC-Q42",
+    "type": "MCQ",
+    "answer": "A",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "In the following block diagram, R(s) and D(s) are two inputs. The output Y(s) is \nexpressed as Y(s) = G1(s)R(s) + G2(s)D(s). \nG1(s) and G2(s) are given by \n \nG(s)\nH(s)\nD(s)\nR(s)\nY(s)\n \n(A) G1(s) = G(s)1 + G(s) + G(s)H(s)  and G2(s) = G(s)1 + G(s) + G(s)H(s) \n(B) G1(s) = G(s)1 + G(s) + H(s)  and G2(s) = G(s)1 + G(s) + H(s) \n(C) G1(s) = G(s)1 + G(s) + H(s)  and G2(s) = G(s)1 + G(s) + G(s)H(s) \n(D) G1(s) = G(s)1 + G(s) + G(s)H(s) and G2(s) = G(s)1 + G(s) + H(s)"
+  },
+  {
+    "id": "GATE-2023-EC-Q49",
+    "type": "MCQ",
+    "answer": "A",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "Let 𝑥(𝑡) = 10 cos(10.5𝑊𝑡)  be passed through an LTI system having impulse \nresponse ℎ(𝑡) = 𝜋 (sin 𝑊𝑡𝜋𝑡 )2 cos 10𝑊𝑡 . The output of the system is  \n  \n(A) (15𝑊4 ) cos(10.5𝑊𝑡) \n(B) (15𝑊2 ) cos(10.5𝑊𝑡) \n(C) (15𝑊8 ) cos(10.5𝑊𝑡) \n(D) (15𝑊) cos(10.5𝑊𝑡)"
+  },
+  {
+    "id": "GATE-2023-EC-Q51",
+    "type": "MCQ",
+    "answer": "A",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "The S-parameters of a two port network is given as \n[𝑆] = [𝑆11 𝑆12𝑆21 𝑆22] \nwith reference to 𝑍0. Two lossless transmission line sections of electrical lengths \n 𝜃1 = 𝛽𝑙1 and 𝜃2 = 𝛽𝑙2 are added to the input and output ports for measurement \npurposes, respectively. The S-parameters [𝑆′] of the resultant two port network is  \n \n \n(A) [𝑆11𝑒−𝑗2𝜃1           𝑆12𝑒−𝑗(𝜃1+𝜃2)\n𝑆21𝑒−𝑗(𝜃1+𝜃2) 𝑆22𝑒−𝑗2𝜃2            ] \n(B) [𝑆11𝑒𝑗2𝜃1                 𝑆12𝑒−𝑗(𝜃1+𝜃2)\n𝑆21𝑒−𝑗(𝜃1+𝜃2) 𝑆22𝑒𝑗2𝜃2            ] \n(C) [𝑆11𝑒𝑗2𝜃1           𝑆12𝑒𝑗(𝜃1+𝜃2)\n𝑆21𝑒𝑗(𝜃1+𝜃2) 𝑆22𝑒𝑗2𝜃2            ] \n(D) [𝑆11𝑒−𝑗2𝜃1           𝑆12𝑒𝑗(𝜃1+𝜃2)    \n𝑆21𝑒𝑗(𝜃1+𝜃2)  𝑆22𝑒−𝑗2𝜃2            ]"
+  },
+  {
+    "id": "GATE-2022-EC-GA10",
+    "type": "MCQ",
+    "answer": "B",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "Consider the following square with the four corners and the \ncenter marked as P, Q, R, S and T respectively. \nLet X, Y and Z represent the following operations: \nX: rotation of the square by 180 degree with respect to the \nS-Q axis.  \nY: rotation of the square by 180 degree with respect to the P-R axis.  \nZ: rotation of the square by 90 degree clockwise with respect to the axis \nperpendicular, going into the screen and passing through the point T. \nConsider the following three distinct sequences of operation (which are applied \nin the left to right order). \n(1) XYZZ \n(2) XY \n(3) ZZZZ \nWhich one of the following statements is correct as per the information \nprovided above?  \n(A) The sequence of operations (1) and (2) are equivalent \n(B) The sequence of operations (1) and (3) are equivalent \n(C) The sequence of operations (2) and (3) are equivalent \n(D) The sequence of operations (1), (2) and (3) are equivalent \n \n\n\nGATE 2022 Electronics and Communications Engineering (EC) \nPage 9"
+  },
+  {
+    "id": "GATE-2022-EC-Q22",
+    "type": "MCQ",
+    "answer": "A",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "The root-locus plot of a closed-loop system with unity negative feedback and \ntransfer function 𝐾𝐺(𝑠) in the forward path is shown in the figure. Note that 𝐾 is \nvaried from 0 to ∞.  \nSelect the transfer function 𝐺(𝑠) that results in the root-locus plot of the closed-loop \nsystem as shown in the figure. \n \n \n(A) 𝐺(𝑠) = 1(𝑠 + 1)ହ \n(B) 𝐺(𝑠) = 1𝑠ହ + 1 \n(C) 𝐺(𝑠) = 𝑠 − 1(𝑠 + 1)଺ \n(D) 𝐺(𝑠) = 𝑠 + 1𝑠଺ + 1 \n  \n  \n\n\nGATE 2022 Electronics and Communications Engineering (EC) \nPage 21"
+  },
+  {
+    "id": "GATE-2022-EC-Q24",
+    "type": "MCQ",
+    "answer": "C",
+    "curr_options_count": 0,
+    "curr_options": [],
+    "statement": "In a circuit, there is a series connection of an ideal resistor and an ideal capacitor. \nThe conduction current (in Amperes) through the resistor is 2sin(𝑡 + 𝜋/2).             \nThe displacement current (in Amperes) through the capacitor is _________. \n  \n(A) 2sin(𝑡)  \n(B) 2sin(𝑡 + 𝜋)  \n(C) 2sin(𝑡 + 𝜋/2)  \n(D) 0  \n  \n  \n\nGATE 2022 Electronics and Communications Engineering (EC) \nPage 23"
+  }
+]

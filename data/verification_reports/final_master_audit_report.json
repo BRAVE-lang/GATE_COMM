@@ -1,0 +1,51 @@
+{
+  "auditTimestamp": "2026-10-31T04:56:40.373Z",
+  "status": "VERIFIED_CLEAN",
+  "summary": {
+    "totalQuestionsInActiveRepository": 3037,
+    "authenticPYQsCount": 325,
+    "authoredPracticeCount": 2700,
+    "curatedSampleCount": 12,
+    "uniqueQuestionsCount": 3037,
+    "duplicateCount": 0,
+    "solutionCompletenessPercentage": 100,
+    "solutionSectionsRequired": 8,
+    "formulaLibraryCount": 20,
+    "subjectsCovered": 10
+  },
+  "breakdowns": {
+    "bySubject": {
+      "General Aptitude": 321,
+      "Digital Circuits": 337,
+      "Signals and Systems": 299,
+      "Engineering Mathematics": 291,
+      "Analog Circuits": 289,
+      "Control Systems": 286,
+      "Electronic Devices": 322,
+      "Electromagnetics": 284,
+      "Network Theory": 296,
+      "Communications": 312
+    },
+    "byType": {
+      "MCQ": 987,
+      "MSQ": 77,
+      "NAT": 1973
+    },
+    "byDifficulty": {
+      "Easy": 2354,
+      "Medium": 656,
+      "Hard": 27
+    },
+    "byProvenance": {
+      "authentic_pyq": 325,
+      "authored_practice": 2712
+    },
+    "byAuthenticYear": {
+      "2022": 65,
+      "2023": 65,
+      "2024": 65,
+      "2025": 65,
+      "2026": 65
+    }
+  }
+}

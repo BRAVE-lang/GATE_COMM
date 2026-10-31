@@ -1,0 +1,156 @@
+[
+  {
+    "year": "2026",
+    "category": "source_paper",
+    "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/EC.pdf",
+    "filename": "GATE_2026_EC_Question_Paper.pdf",
+    "dest": "data/source_papers/2026/GATE_2026_EC_Question_Paper.pdf",
+    "status": "DOWNLOADED",
+    "size": 14137852,
+    "is_pdf": true,
+    "sha256": "ba2ca8d147480695485cea9411020d5f7b6ff5766529bd8f95b6a0b850ca0773"
+  },
+  {
+    "year": "2026",
+    "category": "answer_key",
+    "url": "https://gate2026.iitg.ac.in/doc/download/2026/Keys/EC_Keys.pdf",
+    "filename": "GATE_2026_EC_Answer_Key.pdf",
+    "dest": "data/answer_keys/2026/GATE_2026_EC_Answer_Key.pdf",
+    "status": "DOWNLOADED",
+    "size": 518069,
+    "is_pdf": true,
+    "sha256": "adffe8de60903b5a74c2c8e7344ee541eea855edacc313f81cb8bf02a4486bd4"
+  },
+  {
+    "year": "2025",
+    "category": "source_paper",
+    "url": "https://gate2026.iitg.ac.in/doc/download/2025/EC2025.pdf",
+    "filename": "GATE_2025_EC_Question_Paper.pdf",
+    "dest": "data/source_papers/2025/GATE_2025_EC_Question_Paper.pdf",
+    "status": "DOWNLOADED",
+    "size": 1326393,
+    "is_pdf": true,
+    "sha256": "fe940ace98711b8cb21505fa265044b23b382e649f427d2aea933696a67932ef"
+  },
+  {
+    "year": "2025",
+    "category": "answer_key",
+    "url": "https://gate2026.iitg.ac.in/doc/download/2025_Key/EC_Keys.pdf",
+    "filename": "GATE_2025_EC_Answer_Key.pdf",
+    "dest": "data/answer_keys/2025/GATE_2025_EC_Answer_Key.pdf",
+    "status": "DOWNLOADED",
+    "size": 293040,
+    "is_pdf": true,
+    "sha256": "f6e9dab5223ac39b40ea829a0b036dafe4d73d91b2020de8f617e3104203ef04"
+  },
+  {
+    "year": "2024",
+    "category": "source_paper",
+    "url": "https://gate2026.iitg.ac.in/doc/download/2024/EC24S7.pdf",
+    "filename": "GATE_2024_EC_Question_Paper.pdf",
+    "dest": "data/source_papers/2024/GATE_2024_EC_Question_Paper.pdf",
+    "status": "DOWNLOADED",
+    "size": 1259548,
+    "is_pdf": true,
+    "sha256": "4f7f4b0af084b3b6a1c2aa9a844515722dfa63ae61e02a583e90917933b2bde8"
+  },
+  {
+    "year": "2024",
+    "category": "answer_key",
+    "url": "https://gate2026.iitg.ac.in/doc/download/2024/ECFinalAnswerKey.pdf",
+    "filename": "GATE_2024_EC_Final_Answer_Key.pdf",
+    "dest": "data/answer_keys/2024/GATE_2024_EC_Final_Answer_Key.pdf",
+    "status": "DOWNLOADED",
+    "size": 312789,
+    "is_pdf": true,
+    "sha256": "ea9da050f1ece5d8d640781a0e6e94758924d07d064e42a3499507c56a825c1a"
+  },
+  {
+    "year": "2023",
+    "category": "source_paper",
+    "url": "https://gate2026.iitg.ac.in/doc/download/2023/ec_2023.pdf",
+    "filename": "GATE_2023_EC_Question_Paper.pdf",
+    "dest": "data/source_papers/2023/GATE_2023_EC_Question_Paper.pdf",
+    "status": "DOWNLOADED",
+    "size": 642919,
+    "is_pdf": true,
+    "sha256": "38bf51bcd3ab44ddc8febcc39ebc5f09641cf28a045a33492da17fbb52e8d970"
+  },
+  {
+    "year": "2023",
+    "category": "answer_key",
+    "url": "https://gate2026.iitg.ac.in/doc/download/Answer_keys2023/EC_ANS_GATE2023.pdf",
+    "filename": "GATE_2023_EC_Answer_Key.pdf",
+    "dest": "data/answer_keys/2023/GATE_2023_EC_Answer_Key.pdf",
+    "status": "DOWNLOADED",
+    "size": 104073,
+    "is_pdf": true,
+    "sha256": "6925765c563b40105e153a95ed652c7c4d7d95056d9b6197d629372cb3784513"
+  },
+  {
+    "year": "2022",
+    "category": "source_paper",
+    "url": "https://gate2026.iitg.ac.in/doc/download/2022/ec_2022.pdf",
+    "filename": "GATE_2022_EC_Question_Paper.pdf",
+    "dest": "data/source_papers/2022/GATE_2022_EC_Question_Paper.pdf",
+    "status": "DOWNLOADED",
+    "size": 4121343,
+    "is_pdf": true,
+    "sha256": "890d52a60173aee6a8a5e01fc057ccf53bc1969e47324a25b219825dee2b709d"
+  },
+  {
+    "year": "2022",
+    "category": "answer_key",
+    "url": "https://gate2026.iitg.ac.in/doc/download/Answer_keys2022/ec_2022.pdf",
+    "filename": "GATE_2022_EC_Answer_Key.pdf",
+    "dest": "data/answer_keys/2022/GATE_2022_EC_Answer_Key.pdf",
+    "status": "DOWNLOADED",
+    "size": 430541,
+    "is_pdf": true,
+    "sha256": "c06771669161b1268352c9d1f8b5b17cdc36445fdc6dd2adf8b027b97da53b96"
+  },
+  {
+    "year": "2021",
+    "category": "source_paper",
+    "url": "https://gate2026.iitg.ac.in/doc/download/2021/ec_2021.pdf",
+    "filename": "GATE_2021_EC_Question_Paper.pdf",
+    "dest": "data/source_papers/2021/GATE_2021_EC_Question_Paper.pdf",
+    "status": "DOWNLOADED",
+    "size": 9146552,
+    "is_pdf": true,
+    "sha256": "cab9167225d3c92c96e7397bce53f3ebdc0f39a64c9740996a166e9913ff415c"
+  },
+  {
+    "year": "2021",
+    "category": "answer_key",
+    "url": "https://gate2026.iitg.ac.in/doc/download/Answer_keys2021/ec_2021.pdf",
+    "filename": "GATE_2021_EC_Answer_Key.pdf",
+    "dest": "data/answer_keys/2021/GATE_2021_EC_Answer_Key.pdf",
+    "status": "DOWNLOADED",
+    "size": 613496,
+    "is_pdf": true,
+    "sha256": "e3efdfbe87b7492a3ba5325fc4e615879ba8107057be935bffdf0c98f2bb8fe3"
+  },
+  {
+    "year": "2020",
+    "category": "source_paper",
+    "url": "https://gate2026.iitg.ac.in/doc/download/2020/ec_2020.pdf",
+    "filename": "GATE_2020_EC_Question_Paper.pdf",
+    "dest": "data/source_papers/2020/GATE_2020_EC_Question_Paper.pdf",
+    "status": "DOWNLOADED",
+    "size": 2438546,
+    "is_pdf": true,
+    "sha256": "f6b51c7f9f433cd7eaaeb276e66abe5b9e9b2e7b8b14034d551515b6d6e7de2d"
+  },
+  {
+    "year": "2019",
+    "category": "source_paper",
+    "url": "https://gate2026.iitg.ac.in/doc/download/2019/ec_2019.pdf",
+    "filename": "GATE_2019_EC_Question_Paper.pdf",
+    "dest": "data/source_papers/older_years/GATE_2019_EC_Question_Paper.pdf",
+    "status": "DOWNLOADED",
+    "size": 3231916,
+    "is_pdf": true,
+    "sha256": "73c7b52338e5e1eb568639d6305df1a95b884f144230c1596d5b869bf00f6daa"
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "verification_counts": {
+    "solution_verified": 9,
+    "answer_checked": 316,
+    "needs_review": 0
+  },
+  "subject_distribution_before": {
+    "General Aptitude": 50,
+    "Engineering Mathematics": 125,
+    "Digital Circuits": 33,
+    "Signals and Systems": 26,
+    "Electronic Devices": 23,
+    "Network Theory": 17,
+    "Analog Circuits": 16,
+    "Control Systems": 7,
+    "Electromagnetics": 7,
+    "Communications": 21
+  },
+  "subject_distribution_after": {
+    "General Aptitude": 50,
+    "Digital Circuits": 65,
+    "Signals and Systems": 27,
+    "Engineering Mathematics": 20,
+    "Analog Circuits": 18,
+    "Control Systems": 15,
+    "Electronic Devices": 51,
+    "Electromagnetics": 13,
+    "Network Theory": 25,
+    "Communications": 41
+  },
+  "curated_verified_ids": [
+    "GATE-2024-EC-Q28",
+    "GATE-2023-EC-Q19",
+    "GATE-2024-EC-Q14",
+    "GATE-2024-EC-Q32",
+    "GATE-2023-EC-Q45",
+    "GATE-2023-EC-Q52",
+    "GATE-2022-EC-Q21",
+    "GATE-2024-EC-Q03",
+    "GATE-2023-EC-Q26",
+    "GATE-2024-EC-GA01"
+  ]
+}

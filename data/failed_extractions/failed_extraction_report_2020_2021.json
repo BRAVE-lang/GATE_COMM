@@ -1,0 +1,26 @@
+{
+  "batch": "Batch 1 (2020-2021)",
+  "items": [
+    {
+      "year": 2021,
+      "paper": "GATE_2021_EC_Question_Paper.pdf",
+      "pages": 39,
+      "reason": "Source PDF from official archive consists of rasterized page images without embedded text layer. Requires OCR pipeline or manual transcription.",
+      "status": "quarantined_for_manual_review"
+    },
+    {
+      "year": 2021,
+      "answer_key": "GATE_2021_EC_Answer_Key.pdf",
+      "pages": 3,
+      "reason": "Official answer key PDF consists of scanned raster images without embedded text layer.",
+      "status": "quarantined_for_manual_review"
+    },
+    {
+      "year": 2020,
+      "paper": "GATE_2020_EC_Question_Paper.pdf",
+      "pages": 20,
+      "reason": "Official question paper PDF contains image-rendered question statements without embedded text layer.",
+      "status": "quarantined_for_manual_review"
+    }
+  ]
+}

@@ -1,0 +1,2376 @@
+{
+  "2026": {
+    "count": 65,
+    "questions": [
+      {
+        "q_no": 1,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "B",
+        "marks": 1,
+        "raw_line": "1 7 MCQ GA B 1"
+      },
+      {
+        "q_no": 2,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "2 7 MCQ GA A 1"
+      },
+      {
+        "q_no": 3,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "D",
+        "marks": 1,
+        "raw_line": "3 7 MCQ GA D 1"
+      },
+      {
+        "q_no": 4,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "B",
+        "marks": 1,
+        "raw_line": "4 7 MCQ GA B 1"
+      },
+      {
+        "q_no": 5,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "B",
+        "marks": 1,
+        "raw_line": "5 7 MCQ GA B 1"
+      },
+      {
+        "q_no": 6,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "6 7 MCQ GA A 2"
+      },
+      {
+        "q_no": 7,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "C",
+        "marks": 2,
+        "raw_line": "7 7 MCQ GA C 2"
+      },
+      {
+        "q_no": 8,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "C",
+        "marks": 2,
+        "raw_line": "8 7 MCQ GA C 2"
+      },
+      {
+        "q_no": 9,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "C",
+        "marks": 2,
+        "raw_line": "9 7 MCQ GA C 2"
+      },
+      {
+        "q_no": 10,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "C",
+        "marks": 2,
+        "raw_line": "10 7 MCQ GA C 2"
+      },
+      {
+        "q_no": 11,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "11 7 MCQ EC A 1"
+      },
+      {
+        "q_no": 12,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "D",
+        "marks": 1,
+        "raw_line": "12 7 MCQ EC D 1"
+      },
+      {
+        "q_no": 13,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "D",
+        "marks": 1,
+        "raw_line": "13 7 MCQ EC D 1"
+      },
+      {
+        "q_no": 14,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "C",
+        "marks": 1,
+        "raw_line": "14 7 MCQ EC C 1"
+      },
+      {
+        "q_no": 15,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "D",
+        "marks": 1,
+        "raw_line": "15 7 MCQ EC D 1"
+      },
+      {
+        "q_no": 16,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "16 7 MCQ EC A 1"
+      },
+      {
+        "q_no": 17,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "C",
+        "marks": 1,
+        "raw_line": "17 7 MCQ EC C 1"
+      },
+      {
+        "q_no": 18,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "D",
+        "marks": 1,
+        "raw_line": "18 7 MCQ EC D 1"
+      },
+      {
+        "q_no": 19,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 1,
+        "raw_line": "19 7 MCQ EC B 1"
+      },
+      {
+        "q_no": 20,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "20 7 MCQ EC A 1"
+      },
+      {
+        "q_no": 21,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 1,
+        "raw_line": "21 7 MCQ EC B 1"
+      },
+      {
+        "q_no": 22,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "C",
+        "marks": 1,
+        "raw_line": "22 7 MCQ EC C 1"
+      },
+      {
+        "q_no": 23,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "23 7 MCQ EC A 1"
+      },
+      {
+        "q_no": 24,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "24 7 MCQ EC A 1"
+      },
+      {
+        "q_no": 25,
+        "session": "7",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "25 7 MSQ EC A 1"
+      },
+      {
+        "q_no": 26,
+        "session": "7",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "B;D",
+        "marks": 1,
+        "raw_line": "26 7 MSQ EC B;D 1"
+      },
+      {
+        "q_no": 27,
+        "session": "7",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 1,
+        "raw_line": "27 7 MSQ EC B 1"
+      },
+      {
+        "q_no": 28,
+        "session": "7",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "A;B",
+        "marks": 1,
+        "raw_line": "28 7 MSQ EC A;B 1"
+      },
+      {
+        "q_no": 29,
+        "session": "7",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "C;D",
+        "marks": 1,
+        "raw_line": "29 7 MSQ EC C;D 1"
+      },
+      {
+        "q_no": 30,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "0.95 to 1.05",
+        "marks": 1,
+        "raw_line": "30 7 NAT EC 0.95 to 1.05 1"
+      },
+      {
+        "q_no": 31,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "71.50 to 72.50",
+        "marks": 1,
+        "raw_line": "31 7 NAT EC 71.50 to 72.50 1"
+      },
+      {
+        "q_no": 32,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "0.95 to 1.05",
+        "marks": 1,
+        "raw_line": "32 7 NAT EC 0.95 to 1.05 1"
+      },
+      {
+        "q_no": 33,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "20.50 to 21.50",
+        "marks": 1,
+        "raw_line": "33 7 NAT EC 20.50 to 21.50 1"
+      },
+      {
+        "q_no": 34,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "20.00 to 21.00",
+        "marks": 1,
+        "raw_line": "34 7 NAT EC 20.00 to 21.00 1"
+      },
+      {
+        "q_no": 35,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "4.90 to 5.10",
+        "marks": 1,
+        "raw_line": "35 7 NAT EC 4.90 to 5.10 1"
+      },
+      {
+        "q_no": 36,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "36 7 MCQ EC A 2"
+      },
+      {
+        "q_no": 37,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "37 7 MCQ EC A 2"
+      },
+      {
+        "q_no": 38,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "38 7 MCQ EC A 2"
+      },
+      {
+        "q_no": 39,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 2,
+        "raw_line": "39 7 MCQ EC B 2"
+      },
+      {
+        "q_no": 40,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 2,
+        "raw_line": "40 7 MCQ EC B 2"
+      },
+      {
+        "q_no": 41,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "C",
+        "marks": 2,
+        "raw_line": "41 7 MCQ EC C 2"
+      },
+      {
+        "q_no": 42,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "C",
+        "marks": 2,
+        "raw_line": "42 7 MCQ EC C 2"
+      },
+      {
+        "q_no": 43,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "C",
+        "marks": 2,
+        "raw_line": "43 7 MCQ EC C 2"
+      },
+      {
+        "q_no": 44,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 2,
+        "raw_line": "44 7 MCQ EC B 2"
+      },
+      {
+        "q_no": 45,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 2,
+        "raw_line": "45 7 MCQ EC B 2"
+      },
+      {
+        "q_no": 46,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 2,
+        "raw_line": "46 7 MCQ EC B 2"
+      },
+      {
+        "q_no": 47,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 2,
+        "raw_line": "47 7 MCQ EC B 2"
+      },
+      {
+        "q_no": 48,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "C",
+        "marks": 2,
+        "raw_line": "48 7 MCQ EC C 2"
+      },
+      {
+        "q_no": 49,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "49 7 MCQ EC A 2"
+      },
+      {
+        "q_no": 50,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "50 7 MCQ EC A 2"
+      },
+      {
+        "q_no": 51,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "D",
+        "marks": 2,
+        "raw_line": "51 7 MCQ EC D 2"
+      },
+      {
+        "q_no": 52,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 2,
+        "raw_line": "52 7 MCQ EC B 2"
+      },
+      {
+        "q_no": 53,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "C",
+        "marks": 2,
+        "raw_line": "53 7 MCQ EC C 2"
+      },
+      {
+        "q_no": 54,
+        "session": "7",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "A;B;D",
+        "marks": 2,
+        "raw_line": "54 7 MSQ EC A;B;D 2"
+      },
+      {
+        "q_no": 55,
+        "session": "7",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "C",
+        "marks": 2,
+        "raw_line": "55 7 MSQ EC C 2"
+      },
+      {
+        "q_no": 56,
+        "session": "7",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "A;D",
+        "marks": 2,
+        "raw_line": "56 7 MSQ EC A;D 2"
+      },
+      {
+        "q_no": 57,
+        "session": "7",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "A;B;C",
+        "marks": 2,
+        "raw_line": "57 7 MSQ EC A;B;C 2"
+      },
+      {
+        "q_no": 58,
+        "session": "7",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "A;C;D",
+        "marks": 2,
+        "raw_line": "58 7 MSQ EC A;C;D 2"
+      },
+      {
+        "q_no": 59,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "1386 to 1386",
+        "marks": 2,
+        "raw_line": "59 7 NAT EC 1386 to 1386 2"
+      },
+      {
+        "q_no": 60,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "2.50 to 2.60",
+        "marks": 2,
+        "raw_line": "60 7 NAT EC 2.50 to 2.60 2"
+      },
+      {
+        "q_no": 61,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "0.60 to 0.70",
+        "marks": 2,
+        "raw_line": "61 7 NAT EC 0.60 to 0.70 2"
+      },
+      {
+        "q_no": 62,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "2.90 to 3.10",
+        "marks": 2,
+        "raw_line": "62 7 NAT EC 2.90 to 3.10 2"
+      },
+      {
+        "q_no": 63,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "0.10 to 0.20",
+        "marks": 2,
+        "raw_line": "63 7 NAT EC 0.10 to 0.20 2"
+      },
+      {
+        "q_no": 64,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "-36.50 to -34.50 OR 34.50 to 36.50",
+        "marks": 2,
+        "raw_line": "64 7 NAT EC -36.50 to -34.50 OR 34.50 to 36.50 2"
+      },
+      {
+        "q_no": 65,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "3.70 to 4.30",
+        "marks": 2,
+        "raw_line": "65 7 NAT EC 3.70 to 4.30 2"
+      }
+    ],
+    "source_file": "data/answer_keys/2026/GATE_2026_EC_Answer_Key.pdf"
+  },
+  "2025": {
+    "count": 0,
+    "questions": [],
+    "source_file": "data/answer_keys/2025/GATE_2025_EC_Answer_Key.pdf"
+  },
+  "2024": {
+    "count": 65,
+    "questions": [
+      {
+        "q_no": 1,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "1 7 MCQ GA A 1"
+      },
+      {
+        "q_no": 2,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "2 7 MCQ GA A 1"
+      },
+      {
+        "q_no": 3,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "B",
+        "marks": 1,
+        "raw_line": "3 7 MCQ GA B 1"
+      },
+      {
+        "q_no": 4,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "C",
+        "marks": 1,
+        "raw_line": "4 7 MCQ GA C 1"
+      },
+      {
+        "q_no": 5,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "5 7 MCQ GA A 1"
+      },
+      {
+        "q_no": 6,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "C",
+        "marks": 2,
+        "raw_line": "6 7 MCQ GA C 2"
+      },
+      {
+        "q_no": 7,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "D",
+        "marks": 2,
+        "raw_line": "7 7 MCQ GA D 2"
+      },
+      {
+        "q_no": 8,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "C",
+        "marks": 2,
+        "raw_line": "8 7 MCQ GA C 2"
+      },
+      {
+        "q_no": 9,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "9 7 MCQ GA A 2"
+      },
+      {
+        "q_no": 10,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "10 7 MCQ GA A 2"
+      },
+      {
+        "q_no": 11,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "11 7 MCQ EC A 1"
+      },
+      {
+        "q_no": 12,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "12 7 MCQ EC A 1"
+      },
+      {
+        "q_no": 13,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "D",
+        "marks": 1,
+        "raw_line": "13 7 MCQ EC D 1"
+      },
+      {
+        "q_no": 14,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "MTA",
+        "marks": 1,
+        "raw_line": "14 7 MCQ EC MTA 1"
+      },
+      {
+        "q_no": 15,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "15 7 MCQ EC A 1"
+      },
+      {
+        "q_no": 16,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 1,
+        "raw_line": "16 7 MCQ EC B 1"
+      },
+      {
+        "q_no": 17,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "17 7 MCQ EC A 1"
+      },
+      {
+        "q_no": 18,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "18 7 MCQ EC A 1"
+      },
+      {
+        "q_no": 19,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "19 7 MCQ EC A 1"
+      },
+      {
+        "q_no": 20,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "20 7 MCQ EC A 1"
+      },
+      {
+        "q_no": 21,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "21 7 MCQ EC A 1"
+      },
+      {
+        "q_no": 22,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "22 7 MCQ EC A 1"
+      },
+      {
+        "q_no": 23,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "23 7 MCQ EC A 1"
+      },
+      {
+        "q_no": 24,
+        "session": "7",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "A;C;D",
+        "marks": 1,
+        "raw_line": "24 7 MSQ EC A;C;D 1"
+      },
+      {
+        "q_no": 25,
+        "session": "7",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "A;C",
+        "marks": 1,
+        "raw_line": "25 7 MSQ EC A;C 1"
+      },
+      {
+        "q_no": 26,
+        "session": "7",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "A;B;C",
+        "marks": 1,
+        "raw_line": "26 7 MSQ EC A;B;C 1"
+      },
+      {
+        "q_no": 27,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "2047 to 2047",
+        "marks": 1,
+        "raw_line": "27 7 NAT EC 2047 to 2047 1"
+      },
+      {
+        "q_no": 28,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "2.49 to 2.51",
+        "marks": 1,
+        "raw_line": "28 7 NAT EC 2.49 to 2.51 1"
+      },
+      {
+        "q_no": 29,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "11 to 11",
+        "marks": 1,
+        "raw_line": "29 7 NAT EC 11 to 11 1"
+      },
+      {
+        "q_no": 30,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "5 to 5",
+        "marks": 1,
+        "raw_line": "30 7 NAT EC 5 to 5 1"
+      },
+      {
+        "q_no": 31,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "2 to 2",
+        "marks": 1,
+        "raw_line": "31 7 NAT EC 2 to 2 1"
+      },
+      {
+        "q_no": 32,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "0.75 to 0.75",
+        "marks": 1,
+        "raw_line": "32 7 NAT EC 0.75 to 0.75 1"
+      },
+      {
+        "q_no": 33,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "0.50 to 0.50",
+        "marks": 1,
+        "raw_line": "33 7 NAT EC 0.50 to 0.50 1"
+      },
+      {
+        "q_no": 34,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "4 to 4",
+        "marks": 1,
+        "raw_line": "34 7 NAT EC 4 to 4 1"
+      },
+      {
+        "q_no": 35,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "0.250 to 0.250",
+        "marks": 1,
+        "raw_line": "35 7 NAT EC 0.250 to 0.250 1"
+      },
+      {
+        "q_no": 36,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "36 7 MCQ EC A 2"
+      },
+      {
+        "q_no": 37,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "37 7 MCQ EC A 2"
+      },
+      {
+        "q_no": 38,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 2,
+        "raw_line": "38 7 MCQ EC B 2"
+      },
+      {
+        "q_no": 39,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "39 7 MCQ EC A 2"
+      },
+      {
+        "q_no": 40,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 2,
+        "raw_line": "40 7 MCQ EC B 2"
+      },
+      {
+        "q_no": 41,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 2,
+        "raw_line": "41 7 MCQ EC B 2"
+      },
+      {
+        "q_no": 42,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 2,
+        "raw_line": "42 7 MCQ EC B 2"
+      },
+      {
+        "q_no": 43,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "D",
+        "marks": 2,
+        "raw_line": "43 7 MCQ EC D 2"
+      },
+      {
+        "q_no": 44,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "MTA",
+        "marks": 2,
+        "raw_line": "44 7 MCQ EC MTA 2"
+      },
+      {
+        "q_no": 45,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 2,
+        "raw_line": "45 7 MCQ EC B 2"
+      },
+      {
+        "q_no": 46,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 2,
+        "raw_line": "46 7 MCQ EC B 2"
+      },
+      {
+        "q_no": 47,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "47 7 MCQ EC A 2"
+      },
+      {
+        "q_no": 48,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "MTA",
+        "marks": 2,
+        "raw_line": "48 7 MCQ EC MTA 2"
+      },
+      {
+        "q_no": 49,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "D",
+        "marks": 2,
+        "raw_line": "49 7 MCQ EC D 2"
+      },
+      {
+        "q_no": 50,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 2,
+        "raw_line": "50 7 MCQ EC B 2"
+      },
+      {
+        "q_no": 51,
+        "session": "7",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 2,
+        "raw_line": "51 7 MCQ EC B 2"
+      },
+      {
+        "q_no": 52,
+        "session": "7",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "A;C;D",
+        "marks": 2,
+        "raw_line": "52 7 MSQ EC A;C;D 2"
+      },
+      {
+        "q_no": 53,
+        "session": "7",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "A;C",
+        "marks": 2,
+        "raw_line": "53 7 MSQ EC A;C 2"
+      },
+      {
+        "q_no": 54,
+        "session": "7",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "A;B;D",
+        "marks": 2,
+        "raw_line": "54 7 MSQ EC A;B;D 2"
+      },
+      {
+        "q_no": 55,
+        "session": "7",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "A;B",
+        "marks": 2,
+        "raw_line": "55 7 MSQ EC A;B 2"
+      },
+      {
+        "q_no": 56,
+        "session": "7",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "A;D OR A;C;D",
+        "marks": 2,
+        "raw_line": "56 7 MSQ EC A;D OR A;C;D 2"
+      },
+      {
+        "q_no": 57,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "45.00 to 45.30",
+        "marks": 2,
+        "raw_line": "57 7 NAT EC 45.00 to 45.30 2"
+      },
+      {
+        "q_no": 58,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "200 to 200",
+        "marks": 2,
+        "raw_line": "58 7 NAT EC 200 to 200 2"
+      },
+      {
+        "q_no": 59,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "112 to 112",
+        "marks": 2,
+        "raw_line": "59 7 NAT EC 112 to 112 2"
+      },
+      {
+        "q_no": 60,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "1.5 to 1.5",
+        "marks": 2,
+        "raw_line": "60 7 NAT EC 1.5 to 1.5 2"
+      },
+      {
+        "q_no": 61,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "4.10 to 4.50",
+        "marks": 2,
+        "raw_line": "61 7 NAT EC 4.10 to 4.50 2"
+      },
+      {
+        "q_no": 62,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "2.5 to 2.5",
+        "marks": 2,
+        "raw_line": "62 7 NAT EC 2.5 to 2.5 2"
+      },
+      {
+        "q_no": 63,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "0.17 to 0.19",
+        "marks": 2,
+        "raw_line": "63 7 NAT EC 0.17 to 0.19 2"
+      },
+      {
+        "q_no": 64,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "52.40 to 52.60",
+        "marks": 2,
+        "raw_line": "64 7 NAT EC 52.40 to 52.60 2"
+      },
+      {
+        "q_no": 65,
+        "session": "7",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "4.00 to 4.26",
+        "marks": 2,
+        "raw_line": "65 7 NAT EC 4.00 to 4.26 2"
+      }
+    ],
+    "source_file": "data/answer_keys/2024/GATE_2024_EC_Final_Answer_Key.pdf"
+  },
+  "2023": {
+    "count": 65,
+    "questions": [
+      {
+        "q_no": 1,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "C",
+        "marks": 1,
+        "raw_line": "1 4 MCQ GA C 1"
+      },
+      {
+        "q_no": 2,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "2 4 MCQ GA A 1"
+      },
+      {
+        "q_no": 3,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "C",
+        "marks": 1,
+        "raw_line": "3 4 MCQ GA C 1"
+      },
+      {
+        "q_no": 4,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "C",
+        "marks": 1,
+        "raw_line": "4 4 MCQ GA C 1"
+      },
+      {
+        "q_no": 5,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "C",
+        "marks": 1,
+        "raw_line": "5 4 MCQ GA C 1"
+      },
+      {
+        "q_no": 6,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "D",
+        "marks": 2,
+        "raw_line": "6 4 MCQ GA D 2"
+      },
+      {
+        "q_no": 7,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "7 4 MCQ GA A 2"
+      },
+      {
+        "q_no": 8,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "B",
+        "marks": 2,
+        "raw_line": "8 4 MCQ GA B 2"
+      },
+      {
+        "q_no": 9,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "9 4 MCQ GA A 2"
+      },
+      {
+        "q_no": 10,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "C",
+        "marks": 2,
+        "raw_line": "10 4 MCQ GA C 2"
+      },
+      {
+        "q_no": 11,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "C",
+        "marks": 1,
+        "raw_line": "11 4 MCQ EC C 1"
+      },
+      {
+        "q_no": 12,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 1,
+        "raw_line": "12 4 MCQ EC B 1"
+      },
+      {
+        "q_no": 13,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "13 4 MCQ EC A 1"
+      },
+      {
+        "q_no": 14,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 1,
+        "raw_line": "14 4 MCQ EC B 1"
+      },
+      {
+        "q_no": 15,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "C",
+        "marks": 1,
+        "raw_line": "15 4 MCQ EC C 1"
+      },
+      {
+        "q_no": 16,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "16 4 MCQ EC A 1"
+      },
+      {
+        "q_no": 17,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "17 4 MCQ EC A 1"
+      },
+      {
+        "q_no": 18,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "D",
+        "marks": 1,
+        "raw_line": "18 4 MCQ EC D 1"
+      },
+      {
+        "q_no": 19,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 1,
+        "raw_line": "19 4 MCQ EC B 1"
+      },
+      {
+        "q_no": 20,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "D",
+        "marks": 1,
+        "raw_line": "20 4 MCQ EC D 1"
+      },
+      {
+        "q_no": 21,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "D",
+        "marks": 1,
+        "raw_line": "21 4 MCQ EC D 1"
+      },
+      {
+        "q_no": 22,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "MTA",
+        "marks": 1,
+        "raw_line": "22 4 MCQ EC MTA 1"
+      },
+      {
+        "q_no": 23,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "23 4 MCQ EC A 1"
+      },
+      {
+        "q_no": 24,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "24 4 MCQ EC A 1"
+      },
+      {
+        "q_no": 25,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "25 4 MCQ EC A 1"
+      },
+      {
+        "q_no": 26,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 1,
+        "raw_line": "26 4 MCQ EC B 1"
+      },
+      {
+        "q_no": 27,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 1,
+        "raw_line": "27 4 MCQ EC B 1"
+      },
+      {
+        "q_no": 28,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "C",
+        "marks": 1,
+        "raw_line": "28 4 MCQ EC C 1"
+      },
+      {
+        "q_no": 29,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 1,
+        "raw_line": "29 4 MCQ EC B 1"
+      },
+      {
+        "q_no": 30,
+        "session": "4",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "A,B",
+        "marks": 1,
+        "raw_line": "30 4 MSQ EC A,B 1"
+      },
+      {
+        "q_no": 31,
+        "session": "4",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "10 to 10",
+        "marks": 1,
+        "raw_line": "31 4 NAT EC 10 to 10 1"
+      },
+      {
+        "q_no": 32,
+        "session": "4",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "1.30 to 1.40",
+        "marks": 1,
+        "raw_line": "32 4 NAT EC 1.30 to 1.40 1"
+      },
+      {
+        "q_no": 33,
+        "session": "4",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "80 to 80",
+        "marks": 1,
+        "raw_line": "33 4 NAT EC 80 to 80 1"
+      },
+      {
+        "q_no": 34,
+        "session": "4",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "02 to 02",
+        "marks": 1,
+        "raw_line": "34 4 NAT EC 02 to 02 1"
+      },
+      {
+        "q_no": 35,
+        "session": "4",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "04 to 04",
+        "marks": 1,
+        "raw_line": "35 4 NAT EC 04 to 04 1"
+      },
+      {
+        "q_no": 36,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 2,
+        "raw_line": "36 4 MCQ EC B 2"
+      },
+      {
+        "q_no": 37,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 2,
+        "raw_line": "37 4 MCQ EC B 2"
+      },
+      {
+        "q_no": 38,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "38 4 MCQ EC A 2"
+      },
+      {
+        "q_no": 39,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "39 4 MCQ EC A 2"
+      },
+      {
+        "q_no": 40,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "40 4 MCQ EC A 2"
+      },
+      {
+        "q_no": 41,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "41 4 MCQ EC A 2"
+      },
+      {
+        "q_no": 42,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "42 4 MCQ EC A 2"
+      },
+      {
+        "q_no": 43,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "43 4 MCQ EC A 2"
+      },
+      {
+        "q_no": 44,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 2,
+        "raw_line": "44 4 MCQ EC B 2"
+      },
+      {
+        "q_no": 45,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 2,
+        "raw_line": "45 4 MCQ EC B 2"
+      },
+      {
+        "q_no": 46,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "MTA",
+        "marks": 2,
+        "raw_line": "46 4 MCQ EC MTA 2"
+      },
+      {
+        "q_no": 47,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "47 4 MCQ EC A 2"
+      },
+      {
+        "q_no": 48,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "C",
+        "marks": 2,
+        "raw_line": "48 4 MCQ EC C 2"
+      },
+      {
+        "q_no": 49,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "49 4 MCQ EC A 2"
+      },
+      {
+        "q_no": 50,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "D",
+        "marks": 2,
+        "raw_line": "50 4 MCQ EC D 2"
+      },
+      {
+        "q_no": 51,
+        "session": "4",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "51 4 MCQ EC A 2"
+      },
+      {
+        "q_no": 52,
+        "session": "4",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "B,C",
+        "marks": 2,
+        "raw_line": "52 4 MSQ EC B,C 2"
+      },
+      {
+        "q_no": 53,
+        "session": "4",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "A,B,D",
+        "marks": 2,
+        "raw_line": "53 4 MSQ EC A,B,D 2"
+      },
+      {
+        "q_no": 54,
+        "session": "4",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "B,C,D",
+        "marks": 2,
+        "raw_line": "54 4 MSQ EC B,C,D 2"
+      },
+      {
+        "q_no": 55,
+        "session": "4",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "0 to 0",
+        "marks": 2,
+        "raw_line": "55 4 NAT EC 0 to 0 2"
+      },
+      {
+        "q_no": 56,
+        "session": "4",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "2.20 to 2.30",
+        "marks": 2,
+        "raw_line": "56 4 NAT EC 2.20 to 2.30 2"
+      },
+      {
+        "q_no": 57,
+        "session": "4",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "4 to 4",
+        "marks": 2,
+        "raw_line": "57 4 NAT EC 4 to 4 2"
+      },
+      {
+        "q_no": 58,
+        "session": "4",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "15 to 15",
+        "marks": 2,
+        "raw_line": "58 4 NAT EC 15 to 15 2"
+      },
+      {
+        "q_no": 59,
+        "session": "4",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "0.24 to 0.26",
+        "marks": 2,
+        "raw_line": "59 4 NAT EC 0.24 to 0.26 2"
+      },
+      {
+        "q_no": 60,
+        "session": "4",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "0.12 to 0.14",
+        "marks": 2,
+        "raw_line": "60 4 NAT EC 0.12 to 0.14 2"
+      },
+      {
+        "q_no": 61,
+        "session": "4",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "60.00 to 70.00",
+        "marks": 2,
+        "raw_line": "61 4 NAT EC 60.00 to 70.00 2"
+      },
+      {
+        "q_no": 62,
+        "session": "4",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "8.30 to 8.34",
+        "marks": 2,
+        "raw_line": "62 4 NAT EC 8.30 to 8.34 2"
+      },
+      {
+        "q_no": 63,
+        "session": "4",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "250 to 250 OR 500 to 500",
+        "marks": 2,
+        "raw_line": "63 4 NAT EC 250 to 250 OR 500 to 500 2"
+      },
+      {
+        "q_no": 64,
+        "session": "4",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "2.00 to 2.00",
+        "marks": 2,
+        "raw_line": "64 4 NAT EC 2.00 to 2.00 2"
+      },
+      {
+        "q_no": 65,
+        "session": "4",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "1.97 to 1.99",
+        "marks": 2,
+        "raw_line": "65 4 NAT EC 1.97 to 1.99 2"
+      }
+    ],
+    "source_file": "data/answer_keys/2023/GATE_2023_EC_Answer_Key.pdf"
+  },
+  "2022": {
+    "count": 65,
+    "questions": [
+      {
+        "q_no": 1,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "C",
+        "marks": 1,
+        "raw_line": "1 3 MCQ GA C 1"
+      },
+      {
+        "q_no": 2,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "D",
+        "marks": 1,
+        "raw_line": "2 3 MCQ GA D 1"
+      },
+      {
+        "q_no": 3,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "B",
+        "marks": 1,
+        "raw_line": "3 3 MCQ GA B 1"
+      },
+      {
+        "q_no": 4,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "B",
+        "marks": 1,
+        "raw_line": "4 3 MCQ GA B 1"
+      },
+      {
+        "q_no": 5,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "C",
+        "marks": 1,
+        "raw_line": "5 3 MCQ GA C 1"
+      },
+      {
+        "q_no": 6,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "D",
+        "marks": 2,
+        "raw_line": "6 3 MCQ GA D 2"
+      },
+      {
+        "q_no": 7,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "C",
+        "marks": 2,
+        "raw_line": "7 3 MCQ GA C 2"
+      },
+      {
+        "q_no": 8,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "C",
+        "marks": 2,
+        "raw_line": "8 3 MCQ GA C 2"
+      },
+      {
+        "q_no": 9,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "B",
+        "marks": 2,
+        "raw_line": "9 3 MCQ GA B 2"
+      },
+      {
+        "q_no": 10,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "GA",
+        "official_key": "B",
+        "marks": 2,
+        "raw_line": "10 3 MCQ GA B 2"
+      },
+      {
+        "q_no": 11,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "11 3 MCQ EC A 1"
+      },
+      {
+        "q_no": 12,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "C",
+        "marks": 1,
+        "raw_line": "12 3 MCQ EC C 1"
+      },
+      {
+        "q_no": 13,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 1,
+        "raw_line": "13 3 MCQ EC B 1"
+      },
+      {
+        "q_no": 14,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 1,
+        "raw_line": "14 3 MCQ EC B 1"
+      },
+      {
+        "q_no": 15,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "15 3 MCQ EC A 1"
+      },
+      {
+        "q_no": 16,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "16 3 MCQ EC A 1"
+      },
+      {
+        "q_no": 17,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "C",
+        "marks": 1,
+        "raw_line": "17 3 MCQ EC C 1"
+      },
+      {
+        "q_no": 18,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "C",
+        "marks": 1,
+        "raw_line": "18 3 MCQ EC C 1"
+      },
+      {
+        "q_no": 19,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "C",
+        "marks": 1,
+        "raw_line": "19 3 MCQ EC C 1"
+      },
+      {
+        "q_no": 20,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "C",
+        "marks": 1,
+        "raw_line": "20 3 MCQ EC C 1"
+      },
+      {
+        "q_no": 21,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "C",
+        "marks": 1,
+        "raw_line": "21 3 MCQ EC C 1"
+      },
+      {
+        "q_no": 22,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 1,
+        "raw_line": "22 3 MCQ EC A 1"
+      },
+      {
+        "q_no": 23,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "C",
+        "marks": 1,
+        "raw_line": "23 3 MCQ EC C 1"
+      },
+      {
+        "q_no": 24,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "C",
+        "marks": 1,
+        "raw_line": "24 3 MCQ EC C 1"
+      },
+      {
+        "q_no": 25,
+        "session": "3",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "A,B",
+        "marks": 1,
+        "raw_line": "25 3 MSQ EC A,B 1"
+      },
+      {
+        "q_no": 26,
+        "session": "3",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "B,C",
+        "marks": 1,
+        "raw_line": "26 3 MSQ EC B,C 1"
+      },
+      {
+        "q_no": 27,
+        "session": "3",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "B,C",
+        "marks": 1,
+        "raw_line": "27 3 MSQ EC B,C 1"
+      },
+      {
+        "q_no": 28,
+        "session": "3",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "C",
+        "marks": 1,
+        "raw_line": "28 3 MSQ EC C 1"
+      },
+      {
+        "q_no": 29,
+        "session": "3",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "A,B,D",
+        "marks": 1,
+        "raw_line": "29 3 MSQ EC A,B,D 1"
+      },
+      {
+        "q_no": 30,
+        "session": "3",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "A,C",
+        "marks": 1,
+        "raw_line": "30 3 MSQ EC A,C 1"
+      },
+      {
+        "q_no": 31,
+        "session": "3",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "4.0 to 4.0",
+        "marks": 1,
+        "raw_line": "31 3 NAT EC 4.0 to 4.0 1"
+      },
+      {
+        "q_no": 32,
+        "session": "3",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "0.50 to 0.50",
+        "marks": 1,
+        "raw_line": "32 3 NAT EC 0.50 to 0.50 1"
+      },
+      {
+        "q_no": 33,
+        "session": "3",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "0.0 to 0.0",
+        "marks": 1,
+        "raw_line": "33 3 NAT EC 0.0 to 0.0 1"
+      },
+      {
+        "q_no": 34,
+        "session": "3",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "5.5 to 5.7",
+        "marks": 1,
+        "raw_line": "34 3 NAT EC 5.5 to 5.7 1"
+      },
+      {
+        "q_no": 35,
+        "session": "3",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "2.99 to 3.01",
+        "marks": 1,
+        "raw_line": "35 3 NAT EC 2.99 to 3.01 1"
+      },
+      {
+        "q_no": 36,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 2,
+        "raw_line": "36 3 MCQ EC B 2"
+      },
+      {
+        "q_no": 37,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "37 3 MCQ EC A 2"
+      },
+      {
+        "q_no": 38,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "38 3 MCQ EC A 2"
+      },
+      {
+        "q_no": 39,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "B",
+        "marks": 2,
+        "raw_line": "39 3 MCQ EC B 2"
+      },
+      {
+        "q_no": 40,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "C",
+        "marks": 2,
+        "raw_line": "40 3 MCQ EC C 2"
+      },
+      {
+        "q_no": 41,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "C",
+        "marks": 2,
+        "raw_line": "41 3 MCQ EC C 2"
+      },
+      {
+        "q_no": 42,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "42 3 MCQ EC A 2"
+      },
+      {
+        "q_no": 43,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "43 3 MCQ EC A 2"
+      },
+      {
+        "q_no": 44,
+        "session": "3",
+        "q_type": "MCQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "44 3 MCQ EC A 2"
+      },
+      {
+        "q_no": 45,
+        "session": "3",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "B,D",
+        "marks": 2,
+        "raw_line": "45 3 MSQ EC B,D 2"
+      },
+      {
+        "q_no": 46,
+        "session": "3",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "C,D",
+        "marks": 2,
+        "raw_line": "46 3 MSQ EC C,D 2"
+      },
+      {
+        "q_no": 47,
+        "session": "3",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "A,C",
+        "marks": 2,
+        "raw_line": "47 3 MSQ EC A,C 2"
+      },
+      {
+        "q_no": 48,
+        "session": "3",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "A,C",
+        "marks": 2,
+        "raw_line": "48 3 MSQ EC A,C 2"
+      },
+      {
+        "q_no": 49,
+        "session": "3",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "A,C",
+        "marks": 2,
+        "raw_line": "49 3 MSQ EC A,C 2"
+      },
+      {
+        "q_no": 50,
+        "session": "3",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "50 3 MSQ EC A 2"
+      },
+      {
+        "q_no": 51,
+        "session": "3",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "A",
+        "marks": 2,
+        "raw_line": "51 3 MSQ EC A 2"
+      },
+      {
+        "q_no": 52,
+        "session": "3",
+        "q_type": "MSQ",
+        "section": "EC",
+        "official_key": "MTA",
+        "marks": 2,
+        "raw_line": "52 3 MSQ EC MTA 2"
+      },
+      {
+        "q_no": 53,
+        "session": "3",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "512 to 512",
+        "marks": 2,
+        "raw_line": "53 3 NAT EC 512 to 512 2"
+      },
+      {
+        "q_no": 54,
+        "session": "3",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "3.9 to 4.1",
+        "marks": 2,
+        "raw_line": "54 3 NAT EC 3.9 to 4.1 2"
+      },
+      {
+        "q_no": 55,
+        "session": "3",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "7.9 to 8.1",
+        "marks": 2,
+        "raw_line": "55 3 NAT EC 7.9 to 8.1 2"
+      },
+      {
+        "q_no": 56,
+        "session": "3",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "0.57 to 0.61",
+        "marks": 2,
+        "raw_line": "56 3 NAT EC 0.57 to 0.61 2"
+      },
+      {
+        "q_no": 57,
+        "session": "3",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "0.70 to 0.80",
+        "marks": 2,
+        "raw_line": "57 3 NAT EC 0.70 to 0.80 2"
+      },
+      {
+        "q_no": 58,
+        "session": "3",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "-0.55 to -0.45",
+        "marks": 2,
+        "raw_line": "58 3 NAT EC -0.55 to -0.45 2"
+      },
+      {
+        "q_no": 59,
+        "session": "3",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "-2.1 to -1.9",
+        "marks": 2,
+        "raw_line": "59 3 NAT EC -2.1 to -1.9 2"
+      },
+      {
+        "q_no": 60,
+        "session": "3",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "-0.11 to -0.09",
+        "marks": 2,
+        "raw_line": "60 3 NAT EC -0.11 to -0.09 2"
+      },
+      {
+        "q_no": 61,
+        "session": "3",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "1.00 to 1.00",
+        "marks": 2,
+        "raw_line": "61 3 NAT EC 1.00 to 1.00 2"
+      },
+      {
+        "q_no": 62,
+        "session": "3",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "0.84 to 0.86",
+        "marks": 2,
+        "raw_line": "62 3 NAT EC 0.84 to 0.86 2"
+      },
+      {
+        "q_no": 63,
+        "session": "3",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "0.22 to 0.25",
+        "marks": 2,
+        "raw_line": "63 3 NAT EC 0.22 to 0.25 2"
+      },
+      {
+        "q_no": 64,
+        "session": "3",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "1.15 to 1.18",
+        "marks": 2,
+        "raw_line": "64 3 NAT EC 1.15 to 1.18 2"
+      },
+      {
+        "q_no": 65,
+        "session": "3",
+        "q_type": "NAT",
+        "section": "EC",
+        "official_key": "0.48 to 0.52",
+        "marks": 2,
+        "raw_line": "65 3 NAT EC 0.48 to 0.52 2"
+      }
+    ],
+    "source_file": "data/answer_keys/2022/GATE_2022_EC_Answer_Key.pdf"
+  },
+  "2021": {
+    "count": 0,
+    "questions": [],
+    "source_file": "data/answer_keys/2021/GATE_2021_EC_Answer_Key.pdf"
+  }
+}

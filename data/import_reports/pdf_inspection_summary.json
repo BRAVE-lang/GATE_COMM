@@ -1,0 +1,72 @@
+{
+  "data/source_papers\\2020\\GATE_2020_EC_Question_Paper.pdf": {
+    "type": "source_paper",
+    "pages": 20,
+    "valid": true
+  },
+  "data/source_papers\\2021\\GATE_2021_EC_Question_Paper.pdf": {
+    "type": "source_paper",
+    "pages": 39,
+    "valid": true
+  },
+  "data/source_papers\\2022\\GATE_2022_EC_Question_Paper.pdf": {
+    "type": "source_paper",
+    "pages": 54,
+    "valid": true
+  },
+  "data/source_papers\\2023\\GATE_2023_EC_Question_Paper.pdf": {
+    "type": "source_paper",
+    "pages": 44,
+    "valid": true
+  },
+  "data/source_papers\\2024\\GATE_2024_EC_Question_Paper.pdf": {
+    "type": "source_paper",
+    "error": "'charmap' codec can't encode character '\\u2192' in position 212: character maps to <undefined>",
+    "valid": false
+  },
+  "data/source_papers\\2025\\GATE_2025_EC_Question_Paper.pdf": {
+    "type": "source_paper",
+    "error": "'charmap' codec can't encode character '\\u2192' in position 361: character maps to <undefined>",
+    "valid": false
+  },
+  "data/source_papers\\2026\\GATE_2026_EC_Question_Paper.pdf": {
+    "type": "source_paper",
+    "pages": 58,
+    "valid": true
+  },
+  "data/source_papers\\older_years\\GATE_2019_EC_Question_Paper.pdf": {
+    "type": "source_paper",
+    "pages": 31,
+    "valid": true
+  },
+  "data/answer_keys\\2021\\GATE_2021_EC_Answer_Key.pdf": {
+    "type": "answer_key",
+    "pages": 3,
+    "valid": true
+  },
+  "data/answer_keys\\2022\\GATE_2022_EC_Answer_Key.pdf": {
+    "type": "answer_key",
+    "pages": 2,
+    "valid": true
+  },
+  "data/answer_keys\\2023\\GATE_2023_EC_Answer_Key.pdf": {
+    "type": "answer_key",
+    "pages": 2,
+    "valid": true
+  },
+  "data/answer_keys\\2024\\GATE_2024_EC_Final_Answer_Key.pdf": {
+    "type": "answer_key",
+    "pages": 2,
+    "valid": true
+  },
+  "data/answer_keys\\2025\\GATE_2025_EC_Answer_Key.pdf": {
+    "type": "answer_key",
+    "pages": 2,
+    "valid": true
+  },
+  "data/answer_keys\\2026\\GATE_2026_EC_Answer_Key.pdf": {
+    "type": "answer_key",
+    "pages": 2,
+    "valid": true
+  }
+}
